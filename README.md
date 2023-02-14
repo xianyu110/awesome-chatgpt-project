@@ -9,11 +9,10 @@
 
 ### 小程序版
 
-gpt3:
-
-[xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
-
 gpt3.5:
+
+待补充
+gpt3:
 
 [xianyu110/chatGPT-wx (github.com)](https://github.com/xianyu110/chatGPT-wx)
 
