@@ -10,8 +10,8 @@
 ### 小程序版
 
 gpt3.5:
+https://github.com/xianyu110/staringai-mini-program
 
-待补充
 gpt3:
 
 [xianyu110/chatGPT-wx (github.com)](https://github.com/xianyu110/chatGPT-wx)
