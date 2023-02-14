@@ -37,7 +37,7 @@ https://github.com/eryajf/chatgpt-dingtalk
 
 ### 对接飞书
 
-(https://github.com/xianyu110/ChatGPT-Feishu)](https://github.com/xianyu110/ChatGPT-Feishu)
+[(https://github.com/xianyu110/ChatGPT-Feishu)]()](https://github.com/xianyu110/ChatGPT-Feishu)
 
 ### Java简易代码
 
