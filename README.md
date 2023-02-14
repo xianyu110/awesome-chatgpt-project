@@ -36,8 +36,7 @@ https://github.com/eryajf/chatgpt-dingtalk
 [xianyu110/chatbot-api: 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。 (github.com)](https://github.com/xianyu110/chatbot-api)
 
 ### 对接飞书
-
-[(https://github.com/xianyu110/ChatGPT-Feishu)]()](https://github.com/xianyu110/ChatGPT-Feishu)
+https://github.com/xianyu110/ChatGPT-Feishu
 
 ### Java简易代码
 
