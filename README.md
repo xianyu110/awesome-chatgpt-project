@@ -50,6 +50,9 @@ https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
 ### 必应接合chatgpt申请
 https://blog.csdn.net/xianyu120/article/details/128930285
 
+### CSDNchatGPT
+https://so.csdn.net/so/chat
+
 ### 直接调用网页代码（待验证）
 
 [www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
