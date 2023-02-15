@@ -5,7 +5,6 @@
 [![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment)
 ![GitHub Repo stars](https://img.shields.io/github/stars/smilebuild/ChatGPT-Web)
 
-@[toc]
 # chatgptproject 2023年2月15日持续更新，欢迎star！
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
