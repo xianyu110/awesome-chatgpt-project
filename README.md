@@ -18,11 +18,10 @@ https://github.com/xianyu110/ChatGPT-Web
 
 ### 小程序版
 
-gpt3.5:
+对接 ChatGPT 的 OpenAI 接口，在国内实现与 ChatGPT 实时聊天，包含会话界面和聊天界面，一键分享聊天记录到微信聊天和朋友圈
 https://github.com/xianyu110/staringai-mini-program
 
-gpt3:
-
+由openAI公司发布的大型预训练语言模型chatGPT接入微信小程序
 [xianyu110/chatGPT-wx (github.com)](https://github.com/xianyu110/chatGPT-wx)
 
 ### 对接微信
