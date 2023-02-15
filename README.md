@@ -4,15 +4,14 @@
 ![Last Commit](https://img.shields.io/github/last-commit/SmileBuild/Chatgpt-Web)
 [![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment)
 ![GitHub Repo stars](https://img.shields.io/github/stars/smilebuild/ChatGPT-Web)
- ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-# chatgptproject 2023年2月14日持续更新，欢迎star！
+# chatgptproject 2023年2月15日持续更新，欢迎star！
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
 
 ### 网页版
-
-
+基于ChatGPT API的ChatGPT网页版，无登录障碍，功能丰富。
+https://github.com/xianyu110/ChatGPT-Web
 
 [xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
 
