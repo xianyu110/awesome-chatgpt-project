@@ -66,7 +66,10 @@ https://so.csdn.net/so/chat
 [www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
 
 ### chatGPT插件?
-
+1. WebChatGPT：可以搜索在线信息。
+2. AIPRM for ChatGPT：收集了大量的prompt。
+3.可以自动朗读ChatGPT的回复
+https://www.jb51.net/softs/867661.html#downintro2
 ### chatGPT桌面版?
 
 ### 可有偿提供安装调试服务，联系我：
