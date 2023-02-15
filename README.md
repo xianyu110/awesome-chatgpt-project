@@ -65,6 +65,10 @@ https://so.csdn.net/so/chat
 
 [www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
 
+### chatGPT插件?
+
+### chatGPT桌面版?
+
 ### 可有偿提供安装调试服务，联系我：
 <img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:67%;" />
 
