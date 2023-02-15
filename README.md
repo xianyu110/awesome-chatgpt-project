@@ -3,7 +3,7 @@
 ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/SmileBuild/Chatgpt-Web?filename=chatgpt-web%2Fpackage.json)
 ![Last Commit](https://img.shields.io/github/last-commit/SmileBuild/Chatgpt-Web)
 [![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment)
-![GitHub Repo stars](https://img.shields.io/github/stars/smilebuild/ChatGPT-Web)
+![GitHub Repo stars]()
 # chatgptproject 2023年2月15日持续更新，欢迎star！
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
