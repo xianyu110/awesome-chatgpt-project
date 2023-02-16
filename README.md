@@ -80,9 +80,7 @@ i️ 注意：有时，某些提示可能无法按预期工作，或者可能被
 ### 反GPT,检测是否是机器人
 https://gptzero.me/
 
-### 可有偿提供安装调试服务，联系我：
-<img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:67%;" />
-
+### 可有偿提供安装调试服务
 ### 进交流群体验QQchatgpt机器人
 ![image](https://user-images.githubusercontent.com/53889513/218688346-81a44eda-df3f-400f-8e6f-7939184b5a9a.png)
 ![image](https://user-images.githubusercontent.com/53889513/218906412-9d335988-bc17-467e-8a9a-3e7af6a1a36f.png)
