@@ -7,6 +7,12 @@
 
 # chatgptproject 2023年2月15日持续更新，欢迎star！
 
+# 导航
+1.chatGPT成品项目整理
+2.chatGPT咒语大全
+3.chatGPT注册使用(待完善)
+
+
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
 
