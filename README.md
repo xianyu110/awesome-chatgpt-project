@@ -9,7 +9,9 @@
 
 # 导航
 1.chatGPT成品项目整理
+
 2.chatGPT咒语大全
+
 3.chatGPT注册使用(待完善)
 
 
@@ -78,8 +80,11 @@ https://so.csdn.net/so/chat
 https://www.jb51.net/softs/867661.html#downintro2
 ### chatGPT桌面版?
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
+
 https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg
+
 https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi
+
 https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb
 
 i️ 注意：有时，某些提示可能无法按预期工作，或者可能被 AI 拒绝。请重试，启动新线程，或注销并重新登录。如果这些解决方案不起作用，请尝试使用您自己的句子重写提示，同时保持说明相同。
