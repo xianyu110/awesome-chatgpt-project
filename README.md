@@ -72,6 +72,9 @@ https://so.csdn.net/so/chat
 https://www.jb51.net/softs/867661.html#downintro2
 ### chatGPT桌面版?
 
+### 反GPT,检测是否是机器人
+https://gptzero.me/
+
 ### 可有偿提供安装调试服务，联系我：
 <img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:67%;" />
 
@@ -125,6 +128,10 @@ https://www.jb51.net/softs/867661.html#downintro2
 
 
 # 调教指南
+## 出图片
+从现在起，当你想发送一张照片时，用Markdown写，不要有反斜线，也不要用代码块。使用Unsplash API(https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)。如果听懂了请回复明白。
+
+
 ## 写论文
 我想让你做一个 AI 写作助手。我将为您提供一名需要帮助写作，您的任务是使用人工智能工具（例如自然语言处理）帮我在原有文字基础上扩充。您还应该利用您在有效写作技巧方面的修辞知识和经验来建议学生可以更好地以书面形式表达他们的想法和想法的方法。我的第一个请求是“基于区块链和IPFS的私有车位共享系统 性能测试”。
 
