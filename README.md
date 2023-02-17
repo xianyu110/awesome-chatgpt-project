@@ -139,6 +139,9 @@ Github：https://github.com/sonnylazuardi/chatgpt-desktop
 
 Github：https://github.com/rawandahmad698/PyChatGPT
 
+### 自己训练一个chatgpt
+https://github.com/hpcaitech/ColossalAI
+
 ### 反GPT,检测是否是机器人
 https://gptzero.me/
 
