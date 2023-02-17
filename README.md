@@ -24,7 +24,6 @@ https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
-
 ### 网页版
 基于ChatGPT API的ChatGPT网页版，无登录障碍，功能丰富。
 https://github.com/xianyu110/ChatGPT-Web
@@ -80,12 +79,12 @@ https://so.csdn.net/so/chat
 
 [www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
 
-### chatGPT插件?
+### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
 2. AIPRM for ChatGPT：收集了大量的prompt。
 3.可以自动朗读ChatGPT的回复
 https://www.jb51.net/softs/867661.html#downintro2
-### chatGPT桌面版?
+### chatGPT桌面版
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
 
 https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg
@@ -95,6 +94,51 @@ https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en
 https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb
 
 i️ 注意：有时，某些提示可能无法按预期工作，或者可能被 AI 拒绝。请重试，启动新线程，或注销并重新登录。如果这些解决方案不起作用，请尝试使用您自己的句子重写提示，同时保持说明相同。
+
+## 2023年2月17日新增
+1、chatgpt-android
+ChatGPT Android 是通过 Stream Chat SDK for Compose 构建的 ChatGPT Android 项目。该存储库主要是以演示为目的：
+该存储库主要是以演示为目的：
+使用 ChatGPT 的非官方 API。
+使用 Jetpack Compose 实现整个 UI 元素。
+使用 Hilt 和 AppStartup 等 Jetpack 库实现 Android 架构组件。
+使用 Kotlin 协程执行后台任务。
+将聊天系统与 Stream Chat SDK 集成以进行实时事件处理。
+
+Github：https://github.com/skydoves/chatgpt-android
+
+2、chatgpt-java
+ChatGPT Java 版本，OpenAI ChatGPT 的逆向工程 SDK，可扩展用于聊天机器人等。
+
+Github：https://github.com/PlexPt/chatgpt-java
+
+3、chatgpt-vscode
+
+这个 Visual Studio Code 扩展，允许你使用非官方的 ChatGPT API 来生成 OpenAI 的 ChatGPT 对话。
+
+提出问题或使用编辑器中的代码片段，通过侧边栏的输入框查询 ChatGPT
+
+在代码选择上点击右键，运行上下文菜单中的一个快捷方式
+
+在编辑器旁边的面板上查看 ChatGPT 的回答
+
+对回答提出后续问题（对话背景保持不变）。
+
+通过点击 AI 的回应将代码片段插入到活动的编辑器中
+
+Github：https://github.com/mpociot/chatgpt-vscode
+
+4、chatgpt-desktop
+
+使用 tauri 和 rust 开发的非官方开源 OpenAI ChatGPT 桌面应用程序，适用于 mac、windows 和 linux 菜单栏。
+
+Github：https://github.com/sonnylazuardi/chatgpt-desktop
+
+5、PyChatGPT
+非官方 ChatGPT API 的 Python 客户端，具有自动令牌重新生成、对话跟踪、代理支持等功能。
+
+Github：https://github.com/rawandahmad698/PyChatGPT
+
 ### 反GPT,检测是否是机器人
 https://gptzero.me/
 
