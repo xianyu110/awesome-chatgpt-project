@@ -155,7 +155,7 @@ https://gptzero.me/
 
 <img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:67%;" />
 
-高效使用ChatGPT的小技巧
+## 高效使用ChatGPT的小技巧
 有时ChatGPT给出的回复可能不是很令人满意，此时不要气馁，我们可以尝试换一个提问方式试试。向ChatGPT提问或发指令有一些原则和技巧，以下几点需要大家使用时注意：
 
 简洁清晰
