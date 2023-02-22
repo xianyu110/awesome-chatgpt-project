@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/SmileBuild/ChatGPT-Web)
 ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/SmileBuild/Chatgpt-Web?filename=chatgpt-web%2Fpackage.json)
 ![Last Commit](https://img.shields.io/github/last-commit/SmileBuild/Chatgpt-Web)
-[![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)]
+![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)
 # chatgptproject 持续更新，欢迎star！
 
 # 导航
