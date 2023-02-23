@@ -41,7 +41,7 @@ https://github.com/xianyu110/staringai-mini-program
 [xianyu110/chatGPT-wx (github.com)](https://github.com/xianyu110/chatGPT-wx)
 
 ### 对接微信
-
+慎用！容易封号
 [wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
 
 ### 对接QQ
