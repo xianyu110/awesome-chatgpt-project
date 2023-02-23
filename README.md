@@ -45,7 +45,12 @@ https://github.com/xianyu110/staringai-mini-program
 [wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
 
 ### 对接QQ
+基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性
+
 https://github.com/xianyu110/QChatGPT
+
+🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (内有视频教程）
+https://github.com/xianyu110/chatgpt-mirai-qq-bot
 
 ### 对接公众号
 
