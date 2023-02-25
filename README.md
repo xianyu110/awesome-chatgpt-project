@@ -85,6 +85,9 @@ https://so.csdn.net/so/chat
 
 [www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
 
+## EdgeGPT逆向库
+https://github.com/xianyu110/EdgeGPT
+
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
 2. AIPRM for ChatGPT：收集了大量的prompt。
