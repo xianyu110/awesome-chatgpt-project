@@ -17,8 +17,8 @@
 
 
 
-## 注册
-https://www.woshipm.com/pd/5749183.html
+## 注册 嫌麻烦可以直接买下面账号
+https://cloud.tencent.com/developer/article/2190154
 
 ## chatGPT成品账号
 https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
