@@ -88,6 +88,10 @@ https://so.csdn.net/so/chat
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
 
+## EdgeGPT自制网页
+这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
+https://github.com/xx025/browser-chatgptapi
+
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
 2. AIPRM for ChatGPT：收集了大量的prompt。
