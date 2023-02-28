@@ -43,7 +43,8 @@ https://github.com/xianyu110/staringai-mini-program
 ### 对接微信
 慎用！容易封号
 [wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
-
+在微信上迅速接入 ChatGPT，让它成为你最好的助手！
+https://github.com/xianyu110/wechat-chatgpt
 ### 对接QQ
 基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性
 
