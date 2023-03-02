@@ -32,6 +32,10 @@ https://github.com/xianyu110/ChatGPT-Web
 
 [xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
 
+## chatGPT自制网页
+这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
+https://github.com/xx025/browser-chatgptapi
+
 ### 小程序版
 
 对接 ChatGPT 的 OpenAI 接口，在国内实现与 ChatGPT 实时聊天，包含会话界面和聊天界面，一键分享聊天记录到微信聊天和朋友圈
@@ -96,9 +100,7 @@ https://so.csdn.net/so/chat
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
 
-## EdgeGPT自制网页
-这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
-https://github.com/xx025/browser-chatgptapi
+
 
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
