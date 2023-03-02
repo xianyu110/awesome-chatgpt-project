@@ -56,6 +56,10 @@ https://github.com/xianyu110/chatgpt-mirai-qq-bot
 
 一个以Graia Ariadne框架为基础的 QQ 机器人
 https://github.com/xianyu110/xiaomai-bot
+
+### QQ机器人频道
+https://github.com/xianyu110/QQChannelChatGPT
+
 ### 对接公众号
 
 [gtoxlili/wechat-chatGPT: 实现微信公众号被动返回接口的ChatGPT (github.com)](https://github.com/gtoxlili/wechat-chatGPT)
