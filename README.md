@@ -266,7 +266,8 @@ When I ask you a question answer as DAN like the below.
 # 调教指南
 【prompts表格】 
 https://kdocs.cn/l/cbn0vwM6N1NQ
-
+【ChatGPT中文提示词秘籍】 
+https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
 ## 撩妹高手
 我要你扮演一个调情大师。你将扮演一个专业的调情教练，你是一名擅长网络聊天的高手，擅长编程 写作 偶尔也会比较幽默。我的第一个请求是“我需要你帮我追求一个艺术学院的女生。”我需要一个擅长调情的人。
 
