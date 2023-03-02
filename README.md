@@ -20,12 +20,15 @@
 ## 注册 嫌麻烦可以直接买下面账号
 https://cloud.tencent.com/developer/article/2190154
 
-## chatGPT成品账号
+## chatGPT成品账号(已支持直接用账号使用chatGPT!)
 https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
 ### 网页版
+本项目为chatgpt私有化部署，基于fastapi vue3 chatgpt api实现。
+https://github.com/xianyu110/chatGPT-web-1
+
 基于ChatGPT API的ChatGPT网页版，无登录障碍，功能丰富。
 https://github.com/xianyu110/ChatGPT-Web
 
