@@ -208,23 +208,8 @@ ChatGPT对英文的理解和处理能力要高于中文，因为训练数据集�
 如果问题或指令中包含代码，请用代码块语法（```）括起来，尤其是在用英文提问时，这有助于ChatGPT区分哪里是文字描述，哪里是代码。
 
 ### 复杂公式请使用LaTeX 
-\LaTeXL 
-A
- T 
-E
-​
- X语法
-如果问题或指令中包含复杂，请使用LaTeX \LaTeXL 
-A
- T 
-E
-​
- X语法表达公式。最新版本的ChatGPT可以理解LaTeX \LaTeXL 
-A
- T 
-E
-​
- X语法，这对解决很多数学问题非常有帮助。
+latex code语法
+如果问题或指令中包含复杂，请使用latex codex语法表达公式。最新版本的ChatGPT可以理解latex codex语法，这对解决很多数学问题非常有帮助。
 
 ### 耐心一点
 
@@ -298,6 +283,21 @@ https://hf0y97ff1r.feishu.cn/wiki/wikcnzbmAZXYkQaEj6jeofb0g5g
 
 ## 撩妹高手
 我要你扮演一个调情大师。你将扮演一个专业的调情教练，你是一名擅长网络聊天的高手，擅长编程 写作 偶尔也会比较幽默。我的第一个请求是“我需要你帮我追求一个艺术学院的女生。”我需要一个擅长调情的人。
+
+## 写简历
+第1步，先给它一个很范的自我介绍，并要它修改成简历格式
+·
+“你现在是一个专业简历修改者，我将给你一份自我介绍，请把自我介绍转换成简历格式，请用bullet point和headings，请用粗体和斜体，请用职业语言和格式修改这份简历”
+·
+第2步，叫它把简历翻译成英文，并扩写
+·
+"please now translate the above resume to english. make sure to use professional language and formats. you may add content to every section to make the resume more professional."
+·
+第3步，叫它给你latex代码
+·
+"please now translate the above resume into latex code. make sure the code is ready to use immediately. make sure no more work is needed. make sure the resume is one-page long. make sure to use headings, bullet points, lines, and bold text. make sure the the date is aligned with the job title."
+·
+然后去overleaf这个网站，把它给你的code复制粘贴进去就行了
 
 ## 出图表
 I want you to act as a Graphs Generator. I will type query and you only show me preview of that image that is it and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in English*, i will do so by putting text inside curly
