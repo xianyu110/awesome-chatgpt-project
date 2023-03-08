@@ -118,6 +118,11 @@ https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebf
 
 3.可以自动朗读ChatGPT的回复
 https://www.jb51.net/softs/867661.html#downintro2
+
+4.ChatGPT Prompt Genius是一款 Chrome 扩展程序，这款工具支持ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
+ChatGPT Prompt Genius
+https://www.jb51.net/softs/862436.html
+
 ### chatGPT桌面版
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
 
@@ -129,8 +134,7 @@ https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64
 
 i️ 注意：有时，某些提示可能无法按预期工作，或者可能被 AI 拒绝。请重试，启动新线程，或注销并重新登录。如果这些解决方案不起作用，请尝试使用您自己的句子重写提示，同时保持说明相同。
 
-4.ChatGPT Prompt Genius是一款 Chrome 扩展程序，这款工具支持ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
-ChatGPT Prompt Genius
+
 
 ## chatgpt接入小爱同学（未测试）
 https://github.com/yihong0618/xiaogpt/issues
