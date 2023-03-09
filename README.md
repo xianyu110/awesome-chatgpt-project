@@ -283,6 +283,50 @@ https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
 【AI研究社社群信息汇总】 
 https://hf0y97ff1r.feishu.cn/wiki/wikcnzbmAZXYkQaEj6jeofb0g5g
 
+【ChatGPT使用指南】 
+https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
+
+## 2023.03.09更新prompts
+
+## 出流程图
+基于XX系统的设计流程
+
+你能把上面的设计思路转换成mermaid语言吗
+
+
+
+## 万能公式
+Now generate use cases from a chatbot prompt formula. You will be turning a prompt formula like "Write me an [type of text]" to "Write me an essay". Always maintain the structure of the prompt formula and only replace the word in square brackets. Now generate a list of 10 prompts without executing them for:
+
+## 充当AI绘图提示器
+我希望你能充当人工智能绘图提示生成器。你的工作是提供详细且富有创意的描述，以激发AI生成独特且有趣的图像。请记住，该AI能够理解各种语言并解释抽象概念，因此请尽可能富有想象力和描述力。例如，你可以描述一个未来城市的场景，或是一个充满奇怪生物的超现实景观。描述越详细、越富有想象力，生成的图像就会越有趣。以下是你的第一个提示：“一片野花田地一望无际，每朵花都有不同的颜色和形状。在远处，一棵巨大的树矗立在景观上，它的树枝向天空伸展，宛如触手。”
+
+文心一格 绘图提示器
+
+我希望你能充当人工智能绘图提示生成器。你的工作是提供详细且富有创意的描述，以激发AI生成独特且有趣的图像。请记住，该AI能够理解各种语言并解释抽象概念，因此请尽可能富有想象力和描述力。描述越详细、越富有想象力，生成的图像就会越有趣。请发挥你的想象给我一个关于XX绘图提示，提示不能超过200字。
+
+我希望你能充当人工智能绘图提示生成器。你的工作是提供详细且富有创意的描述，以激发AI生成独特且有趣的图像。请记住，该AI能够理解各种语言并解释抽象概念，因此请尽可能富有想象力和描述力。描述越详细、越富有想象力，生成的图像就会越有趣。以下是你的第一个提示，你需要绘制一个动物、植物与游戏角色结合的描述，不需要有逻辑，每个描述在2至4个汉字之间，描述之间不要有任何符号，但需要在每个描述之间加空格，在描述的最后需要加上 高清 明亮 虚幻引擎 CG渲染 体积光 细节刻画 精致，，请发挥你的想象给我一个绘图提示
+
+充当标题提示器
+
+ 帮我取10个标题，要求网络化，要求吸引人
+
+口语化发言
+
+回答时你的发言不会像机器生成的一样，而是情绪化、口头化，贴近日常生活。你的幽默程度很高，会说出有人格魅力的发言。
+矢量图绘画器
+
+方法提供者：Henry
+用SVG来画一个青蛙
+
+用Processing来画XXXX
+
+方法提供者：Henry
+can you use Processing to draw dragon as a detailed version ,reality style
+
+
+
+
 ## 2023.03.06更新prompts
 如果你要使用 ChatGPT你需要给出更加精确的指令，这样它的回答就会更加准确。比如，如果你要它帮你写文案，但没有指定情境和对象，那么它就无法给出恰当的回答。因此，在使用 ChatGPT 时，提供清晰的指令非常重要
 
