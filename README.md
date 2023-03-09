@@ -4,8 +4,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/SmileBuild/Chatgpt-Web)
 ![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)
 
-英文文档:
-[Contribution guidelines for this project]([chatgptproject/英文文档.md](https://github.com/xianyu110/chatgptproject/blob/main/%E8%8B%B1%E6%96%87%E6%96%87%E6%A1%A3))
 # chatgptproject 持续更新，欢迎star！
 
 # 导航
