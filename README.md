@@ -6,12 +6,12 @@
 
 # chatgptproject 持续更新，欢迎star！
 
-# 导航
-1.chatGPT注册使用
+# 目录导航
+1.[chatGPT注册](https://github.com/xianyu110/chatgptproject#%E6%B3%A8%E5%86%8C-%E5%AB%8C%E9%BA%BB%E7%83%A6%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%B9%B0%E4%B8%8B%E9%9D%A2%E8%B4%A6%E5%8F%B7)
 
-2.chatGPT成品项目整理
+2.[chatGPT成品项目整理](https://github.com/xianyu110/chatgptproject#chatgpt%E6%88%90%E5%93%81%E9%A1%B9%E7%9B%AE%E6%95%B4%E7%90%86)
 
-3.高效使用chatGPT的小技巧
+3.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
 
 
@@ -25,6 +25,8 @@ https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
 
 ## 魔法上网工具
 https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
+
+
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
