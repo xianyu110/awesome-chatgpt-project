@@ -13,7 +13,7 @@
 
 3.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
-
+4.[调教指南](https://github.com/xianyu110/chatgptproject#%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97)
 
 
 
