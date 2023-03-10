@@ -1,13 +1,8 @@
 # 最新最火的Chatgpt Project
 # chatgptproject 持续更新，欢迎star！
-<a href="https://img-blog.csdnimg.cn/img_convert/acd0966a5238513f635ed293799e4e16.png"> <img src="https://img.shields.io/badge/QQ-%E4%BA%A4%E6%B5%81%E7%BE%A4-purple.svg" alt="交流群" /></a> 
 <a href="https://bbs.csdn.net/forums/BigDataMaynor"> <img src="https://img.shields.io/badge/csdn-%E7%A4%BE%E5%8C%BA-purple.svg" alt="社区" /></a> 
 <a href="https://space.bilibili.com/399102586"> <img src="https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg" alt="B站" /></a> 
-  <a href="https://juejin.cn/user/1451011082027416"> <img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-green.svg" alt="掘金" /></a> 
-  <a href="https://gitee.com/the_efforts_paid_offf"> <img src="https://img.shields.io/badge/gitee-Gitee-blue.svg" alt="Gitee" /></a> 
  <a href="https://github.com/xianyu110"> <img src="https://img.shields.io/badge/github-github-yellow.svg" alt="github" /></a> 
-  <a href="https://img-blog.csdnimg.cn/img_convert/7f209cad4ad348bca1c255bf06e18cf1.png">
- <img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-yellow.svg" alt="wechat" /></a> 
  </div> 
 
 
