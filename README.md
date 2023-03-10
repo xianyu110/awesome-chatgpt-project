@@ -17,10 +17,10 @@
 
 
 
-## 注册 嫌麻烦可以直接买下面账号
+## 注册流程 (嫌麻烦可以直接买下面账号)
 https://cloud.tencent.com/developer/article/2190154
 
-## chatGPT成品账号(已支持直接用账号使用chatGPT)
+## chatGPT成品账号
 https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
 
 ## 魔法上网工具
