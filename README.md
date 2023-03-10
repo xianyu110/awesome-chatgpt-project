@@ -109,7 +109,9 @@ https://so.csdn.net/so/chat
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
 
-
+## ChatExcel
+ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
+https://chatexcel.com/
 
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
@@ -124,6 +126,10 @@ https://www.jb51.net/softs/867661.html#downintro2
 4.ChatGPT Prompt Genius是一款 Chrome 扩展程序，这款工具支持ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
 ChatGPT Prompt Genius
 https://www.jb51.net/softs/862436.html
+
+5. 强大的 Bing Chat/AI
+绕过每回合条数限制，无限制的BingChat，找回Sydney，加密聊天，prompt 预设管理器
+https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
 
 ### chatGPT桌面版
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
