@@ -88,6 +88,9 @@ https://github.com/eryajf/chatgpt-dingtalk
 ### 对接飞书
 https://github.com/xianyu110/ChatGPT-Feishu
 
+### 对接Telegram
+https://github.com/TBXark/ChatGPT-Telegram-Workers
+
 ### Java简易代码
 
 [chatGpt玩法源码: b站视频相应源码 (gitee.com)](https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source)
@@ -112,6 +115,10 @@ https://github.com/xianyu110/EdgeGPT
 ## ChatExcel
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
 https://chatexcel.com/
+
+## openai-translator
+我开发了一个 Bob 的插件 bob-plugin-openai-translator 使用 ChatGPT API 在 macOS 上进行全局划词翻译， 但是由于很多用户并不是 macOS 用户，所以特此开发了一个浏览器插件方便非 macOS 用户使用 ChatGPT 进行划词翻译。
+https://github.com/yetone/openai-translator?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
 
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
