@@ -105,16 +105,16 @@ https://blog.csdn.net/xianyu120/article/details/128930285
 ### CSDNchatGPT
 https://so.csdn.net/so/chat
 
-### 直接调用网页代码（待验证）
-
-[www.bimant.com/blog/chatgpt-diy/](http://www.bimant.com/blog/chatgpt-diy/)
-
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
 
 ## ChatExcel
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
 https://chatexcel.com/
+
+## ChatPDF
+它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
+https://www.chatpdf.com/
 
 ## openai-translator
 我开发了一个 Bob 的插件 bob-plugin-openai-translator 使用 ChatGPT API 在 macOS 上进行全局划词翻译， 但是由于很多用户并不是 macOS 用户，所以特此开发了一个浏览器插件方便非 macOS 用户使用 ChatGPT 进行划词翻译。
