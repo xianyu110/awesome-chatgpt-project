@@ -306,8 +306,10 @@ https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
 ## 出流程图
 基于XX系统的设计流程
 
-你能把上面的设计思路转换成mermaid语言吗
+你能把上面的设计思路转换成mermaid语言吗（注意：需要使用支持mermaid语言的工具来渲染该代码，比如在线编辑器[mermaid.live](https://mermaid.live/edit#pako:eNp9kstuwjAQRX9l5DX8QCp1kSCxqChIsEtYDPEERo3t4EerivDvnUB5qQ9v_Jpzfa_tg6qdJpWprcduB6vJU2VB2qJceKdTTX4N4_FzvySrAxgKAbcUILoeXsqV67hefxNFWTgbkrkSaRNqzxupRquhPm_eaTTemR8ql-lZIjpPGtj2kJe5d2_k4VXsXoofF2_I3SEDK1nQR47s7PoW77p04sR7RLZ35AfHHSTL-0Q9zMt50wSK4a-0ObXOboeLAeyhmF63Yepd6n6NV6CFDYHmd9anmAKb1EbuWnpwHf4JPBPXZ-fSk7fY9jArZxRRY8QBVCMlPgyylmc-DEKVijsyVKlMhpoalEMrVdmjlGKKbvlpa5VFn2ikUic6NGGUD2JU1mAb6PgFrr3C6g)）
 
+转化成PlantUML格式给我
+（注意：需要使用支持PlantUML语言的工具来渲染该代码，比如在线编辑器[PlantUML Online Server。](https://www.planttext.com/)）
 
 
 ## 万能公式
