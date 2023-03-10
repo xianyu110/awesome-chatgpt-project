@@ -122,7 +122,7 @@ https://github.com/yetone/openai-translator?utm_campaign=explore-email&utm_mediu
 
 ### chatGPT插件
 1. WebChatGPT：可以搜索在线信息。
-
+https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn
 
 2. AIPRM for ChatGPT：收集了大量的prompt。
 https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related
@@ -132,6 +132,8 @@ https://www.jb51.net/softs/867661.html#downintro2
 
 4.ChatGPT Prompt Genius是一款 Chrome 扩展程序，这款工具支持ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
 ChatGPT Prompt Genius
+https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo
+国内链接:
 https://www.jb51.net/softs/862436.html
 
 5. 强大的 Bing Chat/AI
