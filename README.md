@@ -10,7 +10,7 @@
  </div> 
 </p>
 
-[中文](https://github.com/xianyu110/chatgptproject)| [英文](https://github.com/xianyu110/chatgptproject/blob/main/%E8%8B%B1%E6%96%87%E6%96%87%E6%A1%A3.md)
+中文| [英文](https://github.com/xianyu110/chatgptproject/blob/main/%E8%8B%B1%E6%96%87%E6%96%87%E6%A1%A3.md)
 
 # 目录导航
 1.[chatGPT注册](https://github.com/xianyu110/chatgptproject#%E6%B3%A8%E5%86%8C-%E5%AB%8C%E9%BA%BB%E7%83%A6%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%B9%B0%E4%B8%8B%E9%9D%A2%E8%B4%A6%E5%8F%B7)
