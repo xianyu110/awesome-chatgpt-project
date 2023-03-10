@@ -1,10 +1,14 @@
 # 最新最火的Chatgpt Project
 # chatgptproject 持续更新，欢迎star！
-<a href="https://bbs.csdn.net/forums/BigDataMaynor"> <img src="https://img.shields.io/badge/csdn-%E7%A4%BE%E5%8C%BA-purple.svg" alt="社区" /></a> 
+<p align="center">
+<a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
 <a href="https://space.bilibili.com/399102586"> <img src="https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg" alt="B站" /></a> 
  <a href="https://github.com/xianyu110"> <img src="https://img.shields.io/badge/github-github-yellow.svg" alt="github" /></a> 
+     <a href="#QQ">
+        <img src="https://img.shields.io/badge/QQ:1002569303-green.svg" alt="1002569303" />
+    </a>
  </div> 
-
+</p>
 
 # 目录导航
 1.[chatGPT注册](https://github.com/xianyu110/chatgptproject#%E6%B3%A8%E5%86%8C-%E5%AB%8C%E9%BA%BB%E7%83%A6%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%B9%B0%E4%B8%8B%E9%9D%A2%E8%B4%A6%E5%8F%B7)
