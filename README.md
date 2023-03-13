@@ -1,4 +1,4 @@
-# 最新最火的Chatgpt Project
+# 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，欢迎star！
 <p align="center">
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
