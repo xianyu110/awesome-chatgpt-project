@@ -122,6 +122,12 @@ https://chatexcel.com/
 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
 https://www.chatpdf.com/
 
+## Chat论文
+https://github.com/kaixindelele/ChatPaper
+
+## 一键总结 YouTube 音视频内容
+https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
+
 ## openai-translator
 我开发了一个 Bob 的插件 bob-plugin-openai-translator 使用 ChatGPT API 在 macOS 上进行全局划词翻译， 但是由于很多用户并不是 macOS 用户，所以特此开发了一个浏览器插件方便非 macOS 用户使用 ChatGPT 进行划词翻译。
 https://github.com/yetone/openai-translator?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
