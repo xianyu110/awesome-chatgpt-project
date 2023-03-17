@@ -36,6 +36,9 @@ https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
+## ChatGPT镜像站
+https://github.com/xianyu110/carrot
+
 ### 网页版
 
 本项目为chatgpt私有化部署，基于fastapi vue3 chatgpt api实现。
