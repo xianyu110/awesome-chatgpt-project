@@ -27,7 +27,7 @@
 https://cloud.tencent.com/developer/article/2190154
 
 ## chatGPT成品账号
-https://717ka.com/p/5xpp6r4lb85zw3cp01od6qaz
+https://717ka.com/shop/olrw827s1gys0g0lldyug
 
 ## 魔法上网工具
 https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
