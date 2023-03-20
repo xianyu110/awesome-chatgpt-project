@@ -178,6 +178,13 @@ i️ 注意：有时，某些提示可能无法按预期工作，或者可能被
 ## chatgpt接入小爱同学（未测试）
 https://github.com/yihong0618/xiaogpt/issues
 
+## 程序员开发工具
+
+- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
+- [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt)：JetBrains 編輯器擴充套件。
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
+- [docGPT](https://github.com/cesarhuret/docGPT)：Google 文件編輯器插件，在 Google Docs 內使用 ChatGPT。
+
 ## 2023年2月17日新增
 1、chatgpt-android
 ChatGPT Android 是通过 Stream Chat SDK for Compose 构建的 ChatGPT Android 项目。该存储库主要是以演示为目的：
