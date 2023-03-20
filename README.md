@@ -221,8 +221,8 @@ https://github.com/hpcaitech/ColossalAI
 ### 反GPT,检测是否是机器人
 https://gptzero.me/
 
-### 可有偿提供安装调试服务
-### 进交流群体验QQchatgpt机器人
+
+### 进QQ交流群 交流chatgpt
 ![image](https://user-images.githubusercontent.com/53889513/218688346-81a44eda-df3f-400f-8e6f-7939184b5a9a.png)
 ![image](https://user-images.githubusercontent.com/53889513/218906412-9d335988-bc17-467e-8a9a-3e7af6a1a36f.png)
 
