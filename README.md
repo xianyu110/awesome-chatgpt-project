@@ -95,7 +95,11 @@ https://github.com/eryajf/chatgpt-dingtalk
 [xianyu110/chatbot-api: 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。 (github.com)](https://github.com/xianyu110/chatbot-api)
 
 ### 对接飞书
+
 https://github.com/xianyu110/ChatGPT-Feishu
+
+快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理
+https://github.com/whatwewant/chatgpt-for-chatbot-feishu
 
 ### 对接Telegram
 https://github.com/TBXark/ChatGPT-Telegram-Workers
@@ -154,6 +158,9 @@ https://www.jb51.net/softs/862436.html
 5. 强大的 Bing Chat/AI
 绕过每回合条数限制，无限制的BingChat，找回Sydney，加密聊天，prompt 预设管理器
 https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
+
+6. 
+- [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 
 ### chatGPT桌面版
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
