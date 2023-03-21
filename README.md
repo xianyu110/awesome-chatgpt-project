@@ -37,7 +37,9 @@ http://fakagpt.com//details/30D5F33A
 ## 魔法上网工具
 https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
 
-
+789 飞马 下载地址
+http://789vpn.com/
+使用邀请码注册获取免费时长:https://ll.appxiafa.xyz/app_friend_registration.html?friend=sfrucvrsbun
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
