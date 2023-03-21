@@ -29,6 +29,9 @@ https://cloud.tencent.com/developer/article/2190154
 ## chatGPT成品账号
 https://717ka.com/shop/olrw827s1gys0g0lldyug
 
+## EdgeGPT成品账号
+http://fakagpt.com//details/30D5F33A
+
 ## 魔法上网工具
 https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
 
