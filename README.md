@@ -342,7 +342,7 @@ https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
 ## 2023.03.28更新prompts
 
 现已支持json格式一键导入 
-https://github.com/xianyu110/awesome-chatgpt-project/blob/main/ChatGPTPrompt.json
+https://raw.githubusercontent.com/xianyu110/awesome-chatgpt-project/main/ChatGPTPrompt.json
 
 可在以下网站部署后 一键导入prompt
 https://github.com/Chanzhaoyu/chatgpt-web
