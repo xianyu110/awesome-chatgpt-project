@@ -71,7 +71,8 @@ https://github.com/xianyu110/ChatGPT-Web
 这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
 https://github.com/xx025/browser-chatgptapi
 
-### 只需上传文档或添加指向您网站的链接，即可获得一个类似 ChatGPT 的聊天机器人，可以回答有关它的任何问题。然后将聊天小部件添加到您的网站。
+### 自定义聊天机器人
+只需上传文档或添加指向您网站的链接，即可获得一个类似 ChatGPT 的聊天机器人，可以回答有关它的任何问题。然后将聊天小部件添加到您的网站。
 https://www.chatbase.co/
 
 
