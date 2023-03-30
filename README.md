@@ -138,7 +138,7 @@ https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
 https://blog.csdn.net/xianyu120/article/details/128930285
 
 ### CSDNchatGPT
-https://so.csdn.net/so/chat
+https://so.csdn.net/so/ask
 
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
