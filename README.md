@@ -57,6 +57,8 @@ https://github.com/xianyu110/carrot
 
 
 ### 网页版
+ChatGPT Web
+https://github.com/Chanzhaoyu/chatgpt-web
 
 本项目为chatgpt私有化部署，基于fastapi vue3 chatgpt api实现。
 https://github.com/xianyu110/chatGPT-web-1
