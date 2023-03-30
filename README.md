@@ -210,8 +210,7 @@ https://github.com/yihong0618/xiaogpt/issues
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
 - [docGPT](https://github.com/cesarhuret/docGPT)：Google 文件編輯器插件，在 Google Docs 內使用 ChatGPT。
 
-## 2023年2月17日新增
-1、chatgpt-android
+### chatgpt-android
 ChatGPT Android 是通过 Stream Chat SDK for Compose 构建的 ChatGPT Android 项目。该存储库主要是以演示为目的：
 该存储库主要是以演示为目的：
 使用 ChatGPT 的非官方 API。
@@ -222,12 +221,12 @@ ChatGPT Android 是通过 Stream Chat SDK for Compose 构建的 ChatGPT Android 
 
 Github：https://github.com/skydoves/chatgpt-android
 
-2、chatgpt-java
+### chatgpt-java
 ChatGPT Java 版本，OpenAI ChatGPT 的逆向工程 SDK，可扩展用于聊天机器人等。
 
 Github：https://github.com/PlexPt/chatgpt-java
 
-3、chatgpt-vscode
+### chatgpt-vscode
 
 这个 Visual Studio Code 扩展，允许你使用非官方的 ChatGPT API 来生成 OpenAI 的 ChatGPT 对话。
 
@@ -243,13 +242,13 @@ Github：https://github.com/PlexPt/chatgpt-java
 
 Github：https://github.com/mpociot/chatgpt-vscode
 
-4、chatgpt-desktop
+### chatgpt-desktop
 
 使用 tauri 和 rust 开发的非官方开源 OpenAI ChatGPT 桌面应用程序，适用于 mac、windows 和 linux 菜单栏。
 
 Github：https://github.com/sonnylazuardi/chatgpt-desktop
 
-5、PyChatGPT
+### PyChatGPT
 非官方 ChatGPT API 的 Python 客户端，具有自动令牌重新生成、对话跟踪、代理支持等功能。
 
 Github：https://github.com/rawandahmad698/PyChatGPT
@@ -260,6 +259,13 @@ https://github.com/hpcaitech/ColossalAI
 ### 反GPT,检测是否是机器人
 https://gptzero.me/
 
+
+### Copilot申请
+Copilot X: https://github.com/github-copilot/chat_waitlist_signup/
+Copilot Voice: https://githubnext.com/projects/copilot-voice/
+Copilot Docs: https://githubnext.com/projects/copilot-for-docs/
+Copilot for PRs: https://githubnext.com/projects/copilot-for-pull-requests/
+Copilot CLI: https://githubnext.com/projects/copilot-cli/
 
 ### 进QQ交流群 交流chatgpt
 ![image](https://user-images.githubusercontent.com/53889513/218688346-81a44eda-df3f-400f-8e6f-7939184b5a9a.png)
