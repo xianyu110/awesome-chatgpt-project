@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，欢迎star！
-# 最近更新时间: 20230329
+# 最近更新时间: 20230330
 <p align="center">
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
 <a href="https://space.bilibili.com/399102586"> <img src="https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg" alt="B站" /></a> 
@@ -144,6 +144,10 @@ https://chatexcel.com/
 ## ChatPDF
 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
 https://www.chatpdf.com/ ❓
+
+## ChatDoc
+ChatDOC是一个基于ChatGPT的文件阅读助手，它可以从pdf中快速提取、定位和总结信息。
+https://chatdoc.com/
 
 ## Chat论文
 https://github.com/kaixindelele/ChatPaper
