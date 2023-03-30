@@ -45,8 +45,8 @@ http://fakagpt.com//details/30D5F33A ❓
 魔戒：
 https://www.mojie.mx/#/register?code=vxWju1wm
 
-789 飞马 下载地址
-https://ll.appxiafa.xyz/app_friend_registration.html?friend=qzmbfcmff
+789：
+https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
