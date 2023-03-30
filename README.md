@@ -372,6 +372,11 @@ https://raw.githubusercontent.com/xianyu110/awesome-chatgpt-project/main/ChatGPT
 可在以下网站部署后 一键导入prompt
 https://github.com/Chanzhaoyu/chatgpt-web
 
+## 用chatgpt帮我写的midjouney命令
+这是midjourney命令格式，请按照这个格式帮我生成10种不同命令。[人物描述]+[背景描述]+[相机型号]+[光圈和镜头]+[高质量画质词条] 
+
+以下是一段参考命令，A Chinese 20-year-old man, looking like Audrey Hepburn, Black hair, standing on 2023 Tokyo street, hyper realistic portrait photography, pale skin, dress, wide shot, natural lighting, kodak portra 800, 105 mm f1. 8，ultra detailed，--v5
+
 ## 充当智囊团
 “假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、RayDalio和慧能大师，他们都有自己个性、世界观、价值观，对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么?"可以把名字换成你认可的名人和榜样，然后每次只需要在这个thread里面把自己情况和决策说一遍，就可以有个智囊团从不同角度来建议
 
