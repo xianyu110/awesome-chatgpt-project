@@ -22,7 +22,9 @@
 
 4.[调教指南](https://github.com/xianyu110/chatgptproject#%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97)
 
-
+⭐:可使用
+⛔:失效
+❓ :失效 恢复未知
 
 ## 注册流程 (嫌麻烦可以直接买下面账号)
 https://cloud.tencent.com/developer/article/2190154
@@ -30,10 +32,10 @@ https://cloud.tencent.com/developer/article/2190154
 ## chatGPT成品账号
 https://717ka.com/shop/olrw827s1gys0g0lldyug
 
-http://fakagpt.com//details/39747CCD
+http://fakagpt.com//details/39747CCD ❓
 
 ## EdgeGPT成品账号
-http://fakagpt.com//details/30D5F33A
+http://fakagpt.com//details/30D5F33A ❓
 
 ## 魔法上网工具
 https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
@@ -45,6 +47,9 @@ https://ll.appxiafa.xyz/app_friend_registration.html?friend=qzmbfcmff
 
 ## ChatGPT镜像站
 https://github.com/xianyu110/carrot
+
+
+
 
 ### 网页版
 
@@ -60,6 +65,10 @@ https://github.com/xianyu110/ChatGPT-Web
 ## chatGPT自制网页
 这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
 https://github.com/xx025/browser-chatgptapi
+
+### 只需上传文档或添加指向您网站的链接，即可获得一个类似 ChatGPT 的聊天机器人，可以回答有关它的任何问题。然后将聊天小部件添加到您的网站。
+https://www.chatbase.co/
+
 
 ### 小程序版
 
@@ -134,7 +143,7 @@ https://chatexcel.com/
 
 ## ChatPDF
 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
-https://www.chatpdf.com/
+https://www.chatpdf.com/ ❓
 
 ## Chat论文
 https://github.com/kaixindelele/ChatPaper
