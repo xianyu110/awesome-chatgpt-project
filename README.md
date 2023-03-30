@@ -38,7 +38,12 @@ http://fakagpt.com//details/39747CCD ❓
 http://fakagpt.com//details/30D5F33A ❓
 
 ## 魔法上网工具
-https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
+
+一元机场：
+ https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
+
+魔戒：
+https://www.mojie.mx/#/register?code=vxWju1wm
 
 789 飞马 下载地址
 https://ll.appxiafa.xyz/app_friend_registration.html?friend=qzmbfcmff
