@@ -185,7 +185,7 @@ https://www.jb51.net/softs/862436.html
 https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
 
 6. 
-- [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
+ [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 
 ### chatGPT桌面版
 下载ChatGPT桌面应用程序：macOS / Windows / Linux
