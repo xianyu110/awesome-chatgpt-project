@@ -158,6 +158,9 @@ https://chatdoc.com/
 ## Chat论文
 https://github.com/kaixindelele/ChatPaper
 
+## Chat制作PPT
+https://juejin.cn/post/7202984088185307191
+
 ## 一键总结 YouTube 音视频内容
 https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
 
