@@ -18,9 +18,10 @@
 
 2.[chatGPT成品项目整理](https://github.com/xianyu110/chatgptproject#chatgpt%E6%88%90%E5%93%81%E9%A1%B9%E7%9B%AE%E6%95%B4%E7%90%86)
 
-3.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
+3.[调教指南](https://github.com/xianyu110/chatgptproject#%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97)
 
-4.[调教指南](https://github.com/xianyu110/chatgptproject#%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97)
+4.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
+
 
 ⭐:可使用
 ⛔:失效
