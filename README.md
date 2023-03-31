@@ -327,6 +327,9 @@ https://hf0y97ff1r.feishu.cn/wiki/wikcnzbmAZXYkQaEj6jeofb0g5g
 【ChatGPT使用指南】 
 https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
 
+新增【腾讯文档】代码prompts
+https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
+
 ## 2023.03.28更新prompts
 
 现已支持json格式一键导入 
