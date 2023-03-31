@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，欢迎star！
-# 最近更新时间: 20230330
+# 最近更新时间: 20230331
 <p align="center">
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
 <a href="https://space.bilibili.com/399102586"> <img src="https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg" alt="B站" /></a> 
@@ -162,6 +162,10 @@ https://github.com/kaixindelele/ChatPaper
 
 ## Chat制作PPT
 https://juejin.cn/post/7202984088185307191
+
+## ChatGPT 学术优化
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+https://github.com/xianyu110/chatgpt_academic
 
 ## 一键总结 YouTube 音视频内容
 https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
@@ -376,6 +380,8 @@ https://raw.githubusercontent.com/xianyu110/awesome-chatgpt-project/main/ChatGPT
 
 可在以下网站部署后 一键导入prompt
 https://github.com/Chanzhaoyu/chatgpt-web
+
+
 
 ## 用chatgpt帮我写的midjouney命令
 这是midjourney命令格式，请按照这个格式帮我生成10种不同命令。[人物描述]+[背景描述]+[相机型号]+[光圈和镜头]+[高质量画质词条] 
