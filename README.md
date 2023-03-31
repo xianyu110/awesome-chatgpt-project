@@ -175,6 +175,8 @@ https://juejin.cn/post/7202984088185307191
 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
 https://github.com/xianyu110/chatgpt_academic
 
+
+
 ## 一键总结 YouTube 音视频内容
 https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
 
@@ -228,6 +230,9 @@ https://github.com/yihong0618/xiaogpt/issues
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
 - [docGPT](https://github.com/cesarhuret/docGPT)：Google 文件編輯器插件，在 Google Docs 內使用 ChatGPT。
 
+## cursor
+使用强大的人工智能编写、编辑和讨论您的代码
+https://www.cursor.so/
 ### chatgpt-android
 ChatGPT Android 是通过 Stream Chat SDK for Compose 构建的 ChatGPT Android 项目。该存储库主要是以演示为目的：
 该存储库主要是以演示为目的：
