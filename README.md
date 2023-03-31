@@ -35,6 +35,13 @@ https://717ka.com/shop/olrw827s1gys0g0lldyug
 
 http://fakagpt.com//details/39747CCD ❓
 
+## chatgpt秘钥 API 代理服务
+API2D 提供人人可访问的 API 代理服务。目前支持：
+
+OpenAI ( chat completions )
+OpenAI ( embeddings )
+https://api2d.com/r/188879
+
 ## EdgeGPT成品账号
 http://fakagpt.com//details/30D5F33A ❓
 
