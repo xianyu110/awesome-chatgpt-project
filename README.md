@@ -59,6 +59,8 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
 ## ChatGPT镜像站
+
+[gptbot.icu](https://gptbot.icu/)
 https://github.com/xianyu110/carrot
 
 
