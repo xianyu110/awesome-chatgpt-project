@@ -27,10 +27,10 @@
 ⛔:失效
 ❓ :失效 恢复未知
 
-## 注册流程 (嫌麻烦可以直接买下面账号)
+## 注册流程 
 https://cloud.tencent.com/developer/article/2190154
 
-## chatGPT成品账号
+<!-- ## chatGPT成品账号
 https://717ka.com/shop/olrw827s1gys0g0lldyug  ❓
 
 http://fakagpt.com//details/39747CCD ❓
@@ -44,7 +44,7 @@ https://api2d.com/r/188879
 
 ## EdgeGPT成品账号
 http://fakagpt.com//details/30D5F33A ❓
-
+ -->
 ## 魔法上网工具
 
 一元机场：
