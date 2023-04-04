@@ -701,6 +701,10 @@ is_risk_apply bigint, is_pass_rule bigint, is_obtain_qutoa bigint, quota decimal
 ps: 如果你不确定问题该如何回答，那么把问题重新问ChatGPT,让ChatGPT先给一份有逻辑的回答
 你作为大数据专家，可以谈谈您对XX问题的理解和实践经验吗
 
+
+## 面试官角色
+怎么回答给满分,面试官问:
+
 ## 充当 JavaScript 控制台
 
 > 我希望你充当 javascript 控制台。我将键入命令，您将回复 javascript 控制台应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在大括号内{like this}。我的第一个命令是 console.log("Hello World");
