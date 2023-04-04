@@ -30,6 +30,7 @@
 ## 注册流程 
 https://cloud.tencent.com/developer/article/2190154
 
+<!-- 
 ## chatGPT成品KEY
 https://717ka.com/shop/olrw827s1gys0g0lldyug  
 
@@ -45,6 +46,7 @@ https://api2d.com/r/188879
 ## EdgeGPT成品账号
 http://fakagpt.com//details/30D5F33A ❓
 
+-->
 ## 魔法上网工具
 
 一元机场：
@@ -61,6 +63,7 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 ## ChatGPT镜像站
 
 [gptbot.icu](https://gptbot.icu/)
+
 https://github.com/xianyu110/carrot
 
 
