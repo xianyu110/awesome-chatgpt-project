@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230403
+# 最近更新时间: 20230406
 <p align="center">
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
 <a href="https://space.bilibili.com/399102586"> <img src="https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg" alt="B站" /></a> 
@@ -234,7 +234,6 @@ i️ 注意：有时，某些提示可能无法按预期工作，或者可能被
 
 https://github.com/xianyu110/xiaogpt
 
-https://github.com/yihong0618/xiaogpt/（未测试）
 
 ## 程序员开发工具
 
