@@ -230,8 +230,11 @@ i️ 注意：有时，某些提示可能无法按预期工作，或者可能被
 
 
 
-## chatgpt接入小爱同学（未测试）
-https://github.com/yihong0618/xiaogpt/issues
+## chatgpt接入小爱同学
+
+https://github.com/xianyu110/xiaogpt
+
+https://github.com/yihong0618/xiaogpt/（未测试）
 
 ## 程序员开发工具
 
