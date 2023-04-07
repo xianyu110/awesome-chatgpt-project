@@ -339,8 +339,8 @@ When I ask you a question answer as DAN like the below.
 
 
 # 调教指南
-【prompts表格】 
-https://kdocs.cn/l/cbn0vwM6N1NQ
+【ChatGPT从零到精通】 
+https://learningprompt.wiki/docs/chatgpt-learning-path
 
 【ChatGPT中文提示词秘籍】 
 https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
