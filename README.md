@@ -82,6 +82,10 @@ https://github.com/xianyu110/ChatGPT-Web
 
 [xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
 
+
+## 使用azure openai 部署chatgpt（访问快）
+https://www.cnblogs.com/stulzq/p/17271937.html
+
 ## chatGPT自制网页
 这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
 https://github.com/xx025/browser-chatgptapi
