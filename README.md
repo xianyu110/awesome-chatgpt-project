@@ -165,8 +165,8 @@ https://github.com/xianyu110/EdgeGPT
 ## EdgeGPT插件
 快速破解cn.重定向问题
 链接：https://pan.baidu.com/s/1Qdtu3hvRz2-W9j1w0m3NKQ?pwd=jc02 
-
-
+## EdgeGPT本地
+https://github.com/xianyu110/BingGPT
 ## ChatExcel
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
 https://chatexcel.com/
