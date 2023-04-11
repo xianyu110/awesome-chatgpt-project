@@ -183,7 +183,12 @@ https://chatdoc.com/
 https://github.com/kaixindelele/ChatPaper
 
 ## Chat制作PPT
+
 https://juejin.cn/post/7202984088185307191
+
+
+让PPT演示表达更高效
+http://motion.yoo-ai.com/
 
 ## ChatGPT 学术优化
 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
