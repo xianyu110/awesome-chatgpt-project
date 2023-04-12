@@ -368,6 +368,10 @@ https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
 
 https://gptbot.icu/ 
 
+## 查询余额
+
+查询填写的 Key 的余额。
+
 ## 学习助手
 现在你是一名XX老师，熟悉XX，需要对我的提问给出回答，问题给出答案及解析，我的问题是：
 
