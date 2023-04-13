@@ -68,8 +68,11 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 https://github.com/xianyu110/carrot
 
 
+## AgentGPT：浏览器中直接部署自主 AI 智能体
+https://github.com/xianyu110/AgentGPT
 
-
+## Auto-GPT
+https://github.com/xianyu110/Auto-GPT
 ### 网页版
 ChatGPT Web
 https://github.com/Chanzhaoyu/chatgpt-web
