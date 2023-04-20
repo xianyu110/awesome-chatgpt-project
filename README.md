@@ -35,7 +35,8 @@ https://cloud.tencent.com/developer/article/2190154
 ## chatGPT成品KEY
 https://717ka.com/shop/olrw827s1gys0g0lldyug  
 
-
+## EdgeGPT成品号
+https://faka.yunjunet.top//details/30D5F33A
 
 ## chatgpt秘钥 API 代理服务
 API2D 提供人人可访问的 API 代理服务。目前支持：
