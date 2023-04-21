@@ -455,10 +455,10 @@ private boolean isTokenRequest(HttpServletRequest request) { return CommonUtils.
 帮我检查运行一下这些python代码
 string_1 = "My name is Chaitanya Baweja" 
 string_2 = "sample/ string 2" 
-# default separator 
+
 print(string_1.split()) 
-# [ My , name , is , Chaitanya , Baweja ] 
-# defining separator as / 
+
+
 print(string_2.split( / )) # [ sample , string 2 ]	
 
  我14岁的儿子偷偷，在我的手机上，给主播打赏5万多元，现在主播和平台都不愿意退款，我应该怎么办，有什么法律能条款依据让他们退款？
