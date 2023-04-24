@@ -62,7 +62,7 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 ## ChatGPT镜像站
 
-[gptbot.icu](https://gptbot.icu/)
+[gptbot3.icu](https://gptbot3.icu/)
 
 https://github.com/xianyu110/carrot
 
