@@ -32,7 +32,7 @@
 https://cloud.tencent.com/developer/article/2190154
 
 
-## chatGPT成品KEY
+## GPT成品
 https://717ka.com/shop/olrw827s1gys0g0lldyug  
 
 ## EdgeGPT成品号
