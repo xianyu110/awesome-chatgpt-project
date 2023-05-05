@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230426
+# 最近更新时间: 20230505
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -65,6 +65,11 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 [gptbot3.icu](https://gptbot3.icu/)
 
 https://github.com/xianyu110/carrot
+
+## LangChain
+数据感知：将语言模型连接到其他数据源
+代理：允许语言模型与其环境交互
+https://github.com/xianyu110/langchain
 
 ## 白嫖GPT4：
 https://github.com/xianyu110/gpt4free
