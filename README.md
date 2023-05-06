@@ -66,6 +66,9 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 https://github.com/xianyu110/carrot
 
+## 这是一个使用Claude api的网页
+https://github.com/xianyu110/Claude_gptyier
+
 ## LangChain
 数据感知：将语言模型连接到其他数据源
 代理：允许语言模型与其环境交互
