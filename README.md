@@ -66,6 +66,10 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 https://github.com/xianyu110/carrot
 
+## FastGPT
+一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
+[FastGPT](https://github.com/xianyu110/FastGPT)
+
 ## 这是一个使用Claude api的网页
 https://github.com/xianyu110/Claude_gptyier
 
