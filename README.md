@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230522
+# 最近更新时间: 20230529
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -62,16 +62,26 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 ## ChatGPT镜像站
 
-[gptbot3.icu](https://gptbot3.icu/)
-
 https://github.com/xianyu110/carrot
 
 ## FastGPT
 一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
 
 [FastGPT](https://github.com/xianyu110/FastGPT)
+
+
 在线体验网站：
 https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8
+
+
+## 这是一个使用chatgptcookie登录
+个人用可以使用这个项目。。
+
+https://github.com/pengzhile/pandora
+
+
+
+
 
 ## 这是一个使用Claude api的网页
 https://github.com/xianyu110/Claude_gptyier
