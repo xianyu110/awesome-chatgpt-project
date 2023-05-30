@@ -125,6 +125,10 @@ https://github.com/xx025/browser-chatgptapi
 https://www.chatbase.co/
 
 
+### TalkGPT
+通过对话与 ChatGPT 交流的小玩具。
+https://github.com/xianyu110/TalkGPT.git
+
 ### 小程序版
 
 对接 ChatGPT 的 OpenAI 接口，在国内实现与 ChatGPT 实时聊天，包含会话界面和聊天界面，一键分享聊天记录到微信聊天和朋友圈
