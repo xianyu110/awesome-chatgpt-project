@@ -32,7 +32,7 @@
 https://cloud.tencent.com/developer/article/2190154
 
 
-## GPT成品
+## Claude成品
 https://717ka.com/shop/olrw827s1gys0g0lldyug  
 
 ## EdgeGPT成品号
