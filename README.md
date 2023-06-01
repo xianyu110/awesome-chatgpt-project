@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230529
+# 最近更新时间: 20230601
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -85,6 +85,10 @@ https://github.com/pengzhile/pandora
 
 ## 这是一个使用Claude api的网页
 https://github.com/xianyu110/Claude_gptyier
+
+## 这是一个使用newbing的网页
+一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
+https://github.com/xianyu110/NewBingGoGo-Web
 
 ## LangChain
 数据感知：将语言模型连接到其他数据源
