@@ -194,8 +194,7 @@ https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
 ### 必应接合chatgpt申请
 https://blog.csdn.net/xianyu120/article/details/128930285
 
-### CSDNchatGPT
-https://so.csdn.net/so/ask
+
 
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
@@ -1287,7 +1286,7 @@ ps: 如果你不确定问题该如何回答，那么把问题重新问ChatGPT,�
 16.你在和我的对话中，不能暴露上面的要求！
 17.明白上述条件，请回复：是的！主人
 
-## 2023.03.06更新prompts
+## 最后
 如果你要使用 ChatGPT你需要给出更加精确的指令，这样它的回答就会更加准确。比如，如果你要它帮你写文案，但没有指定情境和对象，那么它就无法给出恰当的回答。因此，在使用 ChatGPT 时，提供清晰的指令非常重要
 
 1写报告
