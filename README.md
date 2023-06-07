@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230601
+# 最近更新时间: 20230607
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -204,6 +204,14 @@ https://github.com/xianyu110/EdgeGPT
 链接：https://pan.baidu.com/s/1Qdtu3hvRz2-W9j1w0m3NKQ?pwd=jc02 
 ## EdgeGPT本地
 https://github.com/xianyu110/BingGPT
+
+## extractGPT(需自备梯子)
+gpt爬虫 从网站中提取数据
+https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc
+
+
+
+
 ## ChatExcel
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
 https://chatexcel.com/
