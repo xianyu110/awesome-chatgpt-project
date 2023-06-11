@@ -87,8 +87,10 @@ https://github.com/pengzhile/pandora
 https://github.com/xianyu110/Claude_gptyier
 
 ## 这是一个使用newbing的网页
+
 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 https://github.com/xianyu110/NewBingGoGo-Web
+
 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 https://github.com/xianyu110/go-proxy-bingai
 
