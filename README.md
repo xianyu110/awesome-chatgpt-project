@@ -214,7 +214,10 @@ gpt爬虫 从网站中提取数据
 https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc
 
 
+## Chat2DB
+Chat2DB 是一款有开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL，也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器，未来即使不懂SQL的运营业务也可以使用快速查询业务数据、生成报表能力。
 
+https://github.com/alibaba/Chat2DB
 
 ## ChatExcel
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
