@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230616
+# 最近更新时间: 20230618
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -232,19 +232,24 @@ ChatDOC是一个基于ChatGPT的文件阅读助手，它可以从pdf中快速提
 https://chatdoc.com/
 
 ## Chat论文
+利用chatgpt进行论文总结+润色+审稿+审稿回复
 https://github.com/kaixindelele/ChatPaper
 
-## Chat制作PPT
+## ChatGPT 学术优化
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+https://github.com/xianyu110/chatgpt_academic
 
+## ChatPPT
+命令式一键生成PPT
+http://chatppt.yoo-ai.com/?share_code=148936
+
+图文
 https://juejin.cn/post/7202984088185307191
 
 
 让PPT演示表达更高效
 http://motion.yoo-ai.com/
 
-## ChatGPT 学术优化
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
-https://github.com/xianyu110/chatgpt_academic
 
 
 
