@@ -380,11 +380,6 @@ Copilot CLI: https://githubnext.com/projects/copilot-cli/
 ### GPT提示词优化
 http://promptperfect.jina.ai
 
-### 进QQ交流群 交流chatgpt
-![image](https://user-images.githubusercontent.com/53889513/218688346-81a44eda-df3f-400f-8e6f-7939184b5a9a.png)
-![image](https://user-images.githubusercontent.com/53889513/218906412-9d335988-bc17-467e-8a9a-3e7af6a1a36f.png)
-
-<img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:37%;" />
 
 # chatGPT的玩法大全：
 前缀生成器 ：https://huggingface.co/spaces/merve/ChatGPT-prompt-generator
@@ -1395,6 +1390,10 @@ ChatGPT是一个强大的工具，但它仍然是一台机器，可能不能总�
 我有没有能力判断ChatGPT输出内容的正确性？ 如果没能力判断，那么劝你不要使用，否则可能会给你带来麻烦；如果有能力判断输出的正确性，还要再问自己第三个问题；
 一旦出现问题我是否愿意或有能力承担由此带来的后果？ 如果回答是否定的，那么建议你也不要使用；如果你愿意承担后果，那么就可以在工作中使用ChatGPT，但注意⚠：一定要严格审查ChatGPT输出的正确定和准确性。
 
+
+### 进QQ交流群 交流chatgpt
+
+<img src="https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png" alt="f1857683b1b8d621b85e24d9de759d6" style="zoom:37%;" />
 
 ## Star History
 
