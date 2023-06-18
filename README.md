@@ -1395,3 +1395,7 @@ ChatGPT是一个强大的工具，但它仍然是一台机器，可能不能总�
 我有没有能力判断ChatGPT输出内容的正确性？ 如果没能力判断，那么劝你不要使用，否则可能会给你带来麻烦；如果有能力判断输出的正确性，还要再问自己第三个问题；
 一旦出现问题我是否愿意或有能力承担由此带来的后果？ 如果回答是否定的，那么建议你也不要使用；如果你愿意承担后果，那么就可以在工作中使用ChatGPT，但注意⚠：一定要严格审查ChatGPT输出的正确定和准确性。
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xianyu110/awesome-chatgpt-project&type=Date)](https://star-history.com/#xianyu110/awesome-chatgpt-project&Date)
