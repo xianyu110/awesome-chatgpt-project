@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230618
+# 最近更新时间: 20230630
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -102,6 +102,11 @@ https://github.com/xianyu110/langchain
 ## 白嫖GPT4：
 https://github.com/xianyu110/gpt4free
 
+## Bili Insight
+无需点开视频自动总结内容的真省流助手，GPT洞察B站视频内容的Chrome插件
+Github地址：https://github.com/2951121599/Bili-Insight
+插件上线Chrome商店：https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN
+
 ## AgentGPT：浏览器中直接部署自主 AI 智能体
 https://github.com/xianyu110/AgentGPT
 
@@ -161,6 +166,10 @@ https://github.com/xianyu110/chatgpt-mirai-qq-bot
 
 一个以Graia Ariadne框架为基础的 QQ 机器人
 https://github.com/xianyu110/xiaomai-bot
+qq机器人🤖
+距离上次更新已经过了很久，这段时间基于 Langchain 重构了一下代码。受 Auto-GPT 启发引入了思考链和记忆数据库，使 AI 更真实。但是受限于上下文长度，目前的效果还没达到理想情况，等大模型的能力增强，战未来！
+开源地址：https://github.com/Syan-Lin/CyberWaifu
+
 
 ### QQ机器人频道
 https://github.com/xianyu110/QQChannelChatGPT
@@ -198,7 +207,16 @@ https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
 ### 必应接合chatgpt申请
 https://blog.csdn.net/xianyu120/article/details/128930285
 
+## 聚合各大模型的插件
+地址：
+https://fast.uc.cn/s/88e20158c6b44
+密码：aZEE
 
+【苹果电脑可以暂时用虚拟机运行】
+最新翻译功能对接的是谷歌接口，如果你无法访问谷歌，则无法使用。
+目前安卓版需要用Apple id登录，Apple ID注册直接从这里：https://www.icloud.com.cn/，注册好后点击continue with Apple登录软件
+最新版下载后请解压缩，如果没有.net7框架会提示下载，请下载安装就可正常打开软件了，poe如果邮箱不能登录请点Continue with Google登录。
+bito、bing、bard、ora这几款都需要登录，全部登录成功后先关闭软件再打开即可正常使用。
 
 ## EdgeGPT逆向库
 https://github.com/xianyu110/EdgeGPT
