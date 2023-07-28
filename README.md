@@ -72,7 +72,7 @@ https://github.com/xianyu110/carrot
 
 ## MetaGPT
 🌟多代理框架：给定一行需求，返回 PRD、设计、任务、存储库
-https://github.com/geekan/MetaGPT#:~:text=The%20Multi%2DAgent-,Framework,-Assign%20different%20roles
+https://github.com/geekan/MetaGPT
 
 ## FastGPT
 一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
