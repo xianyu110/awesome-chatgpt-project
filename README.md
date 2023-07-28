@@ -104,7 +104,10 @@ https://github.com/xianyu110/Claude_gptyier
 https://github.com/xianyu110/NewBingGoGo-Web
 
 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
 https://github.com/xianyu110/go-proxy-bingai
+
+ps:原项目作者已不维护,最新方法见: https://github.com/adams549659584/go-proxy-bingai/issues/378
 
 ## LangChain
 数据感知：将语言模型连接到其他数据源
