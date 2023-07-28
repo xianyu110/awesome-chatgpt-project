@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230710
+# 最近更新时间: 20230728
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -32,6 +32,10 @@
 https://cloud.tencent.com/developer/article/2190154
 
 
+## ChatGPT全方位实战与赚点小钱手册
+将分享至少涵盖30篇正在盈利的副业项目，至少30%是蓝海项目。 以及详细的AI工具教程，包括但不限于AI写作、AI办公、AI出图、MJ使用、STD使用等
+http://www.yibencezi.com/notes/253200?affiliate_id=1317
+
 ## ChagGPT成品
 https://717ka.com/shop/olrw827s1gys0g0lldyug  
 
@@ -57,6 +61,8 @@ https://www.mojie.mx/#/register?code=vxWju1wm
 
 789：
 https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
+
+
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
