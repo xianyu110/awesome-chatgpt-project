@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20230821
+# 最近更新时间: 20231021
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -68,6 +68,11 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 ## ChatGPT镜像站
 
 https://github.com/xianyu110/carrot
+
+## ChatDev
+ChatDev是OpenBMB的发起者——面壁智能（ModelBest）联合清华大学NLP实验室共同开发的大模型全流程自动化软件开发框架，火遍全球，开源6周获星标13k，吸引国内外众多软件开发和创业者成为“自来水”。近期，ChatDev新增两个实用性加满的新功能：“Human-Agent-Interaction“和”Git", 可以实现人与智能体的交互和AI程序员代码管理。
+
+GitHub地址：https://github.com/OpenBMB/ChatDev
 
 
 ## MetaGPT
@@ -165,8 +170,6 @@ https://github.com/xianyu110/TalkGPT.git
 对接 ChatGPT 的 OpenAI 接口，在国内实现与 ChatGPT 实时聊天，包含会话界面和聊天界面，一键分享聊天记录到微信聊天和朋友圈
 https://github.com/xianyu110/staringai-mini-program
 
-由openAI公司发布的大型预训练语言模型chatGPT接入微信小程序
-[xianyu110/chatGPT-wx (github.com)](https://github.com/xianyu110/chatGPT-wx)
 
 ### 对接微信
 慎用！容易封号
