@@ -37,8 +37,7 @@ https://cloud.tencent.com/developer/article/2190154
 
 http://www.yibencezi.com/notes/253200?affiliate_id=1317
 
-## ChagGPT成品
-https://717ka.com/shop/olrw827s1gys0g0lldyug  
+
 
 
 ## chatgpt秘钥 API 代理服务
