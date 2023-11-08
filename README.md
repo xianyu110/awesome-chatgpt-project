@@ -55,8 +55,8 @@ https://api2d.com/r/188879
 
 ## 魔法上网工具
 
-一元机场：
- https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
+耐思云：
+[ https://xn--4gq62f52gdss.com/#/register?code=MeojpslR](https://v.subnice.top/index.php#/register?code=6iPK3l3y)
 
 
 789：
