@@ -58,8 +58,6 @@ https://api2d.com/r/188879
 一元机场：
  https://xn--4gq62f52gdss.com/#/register?code=MeojpslR
 
-魔戒：
-https://www.mojie.mx/#/register?code=vxWju1wm
 
 789：
 https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
