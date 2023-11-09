@@ -170,6 +170,10 @@ https://github.com/xianyu110/staringai-mini-program
 
 
 ### 对接微信
+微秘书，部署简单
+https://wechat.aibotk.com?r=zRwRDK
+
+
 慎用！容易封号
 [wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
 
