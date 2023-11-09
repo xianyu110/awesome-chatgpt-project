@@ -121,7 +121,9 @@ https://github.com/xianyu110/gpt4free
 
 ## Bili Insight
 无需点开视频自动总结内容的真省流助手，GPT洞察B站视频内容的Chrome插件
+
 Github地址：https://github.com/2951121599/Bili-Insight
+
 插件上线Chrome商店：https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN
 
 ## AgentGPT：浏览器中直接部署自主 AI 智能体
@@ -142,9 +144,6 @@ https://github.com/xianyu110/ChatGPT-Web
 
 [xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
 
-## AI女友语音版
-集成了几十种女友类型 支持语音问答
-https://www.gpt200.cn/?inviter=20610#/register
 
 
 
