@@ -31,9 +31,7 @@
 ## 注册流程 
 https://cloud.tencent.com/developer/article/2190154
 
-## chatgpt alpha账号，不限次数的gpt4，只有少量账号
 
-https://717ka.com/p/onoedrwrc1m2qdaw16l5embx
 
 
 ## ChatGPT全方位实战与赚点小钱手册
