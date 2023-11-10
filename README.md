@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20231021
+# 最近更新时间: 20231110
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -75,6 +75,7 @@ GitHub地址：https://github.com/OpenBMB/ChatDev
 
 
 ## LinkAI
+LinkAI聚合了多模态模型，提供知识库、Agent插件等增强服务，帮助应用快速落地。
 
 https://link-ai.tech/home?share=uDK5KC
 
