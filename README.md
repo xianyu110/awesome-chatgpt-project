@@ -42,15 +42,6 @@ http://www.yibencezi.com/notes/253200?affiliate_id=1317
 
 
 
-## chatgpt秘钥 API 代理服务
-API2D 提供人人可访问的 API 代理服务。目前支持：
-
-OpenAI ( chat completions )
-OpenAI ( embeddings )
-https://api2d.com/r/188879
-
-
-
 ## 魔法上网工具
 
 耐思云：
