@@ -74,6 +74,10 @@ ChatDev是OpenBMB的发起者——面壁智能（ModelBest）联合清华大学
 GitHub地址：https://github.com/OpenBMB/ChatDev
 
 
+## LinkAI
+
+https://link-ai.tech/home?share=uDK5KC
+
 ## MetaGPT
 🌟多代理框架：给定一行需求，返回 PRD、设计、任务、存储库
 https://github.com/geekan/MetaGPT
@@ -173,6 +177,8 @@ https://github.com/xianyu110/staringai-mini-program
 微秘书，部署简单
 https://wechat.aibotk.com?r=zRwRDK
 
+Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
+https://github.com/xianyu110/chatgpt-on-wechat
 
 慎用！容易封号
 [wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
