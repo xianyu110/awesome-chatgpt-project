@@ -98,8 +98,11 @@ https://github.com/xianyu110/Claude_gptyier
 
 ## 这是一个使用newbing的网页
 
-一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
-https://github.com/xianyu110/NewBingGoGo-Web
+Bingo，一个让你呼吸顺畅 New Bing。
+
+高度还原 New Bing 网页版的主要操作，国内可用，兼容绝大多数微软 Bing AI 的功能，可自行部署使用。
+https://github.com/xianyu110/bingo
+
 
 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
