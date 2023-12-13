@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20231110
+# 最近更新时间: 20231210
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -28,7 +28,7 @@
 ⛔:失效
 ❓ :失效 恢复未知
 
-## 注册流程 
+## 注册流程 (貌似现在不需要手机号了)
 https://cloud.tencent.com/developer/article/2190154
 
 
