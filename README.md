@@ -460,6 +460,9 @@ When I ask you a question answer as DAN like the below.
 
 
 # 调教指南
+
+
+
 【ChatGPT从零到精通】 
 https://learningprompt.wiki/docs/chatgpt-learning-path
 
@@ -469,10 +472,11 @@ https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
 【AI研究社社群信息汇总】 
 https://hf0y97ff1r.feishu.cn/wiki/wikcnzbmAZXYkQaEj6jeofb0g5g
 
-【ChatGPT使用指南】 
-https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
 
-新增【腾讯文档】代码prompts
+【⭐LangGPT 结构化提示词】 
+https://aq92z6vors3.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
+
+代码prompts
 https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
 
 
