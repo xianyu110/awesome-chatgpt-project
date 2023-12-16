@@ -58,6 +58,10 @@ https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
 https://github.com/xianyu110/carrot
 
+## LangGPT
+Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+
+https://github.com/xianyu110/LangGPT
 ## ChatDev
 ChatDev是OpenBMB的发起者——面壁智能（ModelBest）联合清华大学NLP实验室共同开发的大模型全流程自动化软件开发框架，火遍全球，开源6周获星标13k，吸引国内外众多软件开发和创业者成为“自来水”。近期，ChatDev新增两个实用性加满的新功能：“Human-Agent-Interaction“和”Git", 可以实现人与智能体的交互和AI程序员代码管理。
 
