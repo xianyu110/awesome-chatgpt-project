@@ -45,8 +45,8 @@ http://www.yibencezi.com/notes/253200?affiliate_id=1317
 ## 魔法上网工具
 
 耐思云：
-https://v.nicecloud.top/#/register?code=6iPK3l3y
 
+https://v.niceyun.cc/index.php#/register?code=SUXfqQqB
 789：
 https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
