@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20231210
+# 最近更新时间: 20240517
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -30,6 +30,7 @@
 
 ## 一站式AI聚合网站
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
+
 https://api.maynor1024.live/
 
 
