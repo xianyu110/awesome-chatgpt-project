@@ -28,10 +28,9 @@
 ⛔:失效
 ❓ :失效 恢复未知
 
-## 注册流程 (貌似现在不需要手机号了)
-https://cloud.tencent.com/developer/article/2190154
-
-
+## 一站式AI聚合网站
+提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
+https://api.maynor1024.live/
 
 
 ## ChatGPT全方位实战与赚点小钱手册
