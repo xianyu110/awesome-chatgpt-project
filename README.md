@@ -46,8 +46,7 @@ http://www.yibencezi.com/notes/253200?affiliate_id=1317
 
 耐思云：
 
-https://c.nsyun.one/index.php#/register?code=6iPK3l3y
-
+https://106.15.51.209:2096/#/register?code=6EGVVomw
 789：
 https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
 
