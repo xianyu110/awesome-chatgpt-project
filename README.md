@@ -194,6 +194,7 @@ https://github.com/xianyu110/chatgpt-mirai-qq-bot
 
 一个以Graia Ariadne框架为基础的 QQ 机器人
 https://github.com/xianyu110/xiaomai-bot
+
 qq机器人🤖
 距离上次更新已经过了很久，这段时间基于 Langchain 重构了一下代码。受 Auto-GPT 启发引入了思考链和记忆数据库，使 AI 更真实。但是受限于上下文长度，目前的效果还没达到理想情况，等大模型的能力增强，战未来！
 开源地址：https://github.com/Syan-Lin/CyberWaifu
