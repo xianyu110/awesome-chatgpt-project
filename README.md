@@ -66,6 +66,13 @@ https://github.com/xianyu110/ChatTTS
 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 
 https://github.com/xianyu110/LangGPT
+
+## chatgpt-web-midjourney-proxy
+一个用户界面全部完成chatgptweb、中途、gpt、tts、耳语、suno-v3；同时支持Web/PWA/Linux/Win/MacOS平台
+https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main
+## new-api
+基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！  
+https://github.com/xianyu110/new-api
 ## ChatDev
 ChatDev是OpenBMB的发起者——面壁智能（ModelBest）联合清华大学NLP实验室共同开发的大模型全流程自动化软件开发框架，火遍全球，开源6周获星标13k，吸引国内外众多软件开发和创业者成为“自来水”。近期，ChatDev新增两个实用性加满的新功能：“Human-Agent-Interaction“和”Git", 可以实现人与智能体的交互和AI程序员代码管理。
 
@@ -84,24 +91,14 @@ https://github.com/geekan/MetaGPT
 ## FastGPT
 一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
 
-[FastGPT](https://github.com/xianyu110/FastGPT)
-
+https://github.com/xianyu110/FastGPT
 
 在线体验网站：
 https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8
 
 
-## 这是一个使用chatgptcookie登录
-个人用可以使用这个项目。。
-
-https://github.com/pengzhile/pandora
 
 
-
-
-
-## 这是一个使用Claude api的网页
-https://github.com/xianyu110/Claude_gptyier
 
 ## 这是一个使用newbing的网页
 
@@ -139,17 +136,10 @@ https://github.com/xianyu110/AgentGPT
 https://github.com/xianyu110/Auto-GPT
 ### 网页版
 ChatGPT Web
-https://github.com/Chanzhaoyu/chatgpt-web
+https://github.com/xianyu110/chatgpt-web-2/tree/main
 
 本项目为chatgpt私有化部署，基于fastapi vue3 chatgpt api实现。
 https://github.com/xianyu110/chatGPT-web-1
-
-基于ChatGPT API的ChatGPT网页版，无登录障碍，功能丰富。
-https://github.com/xianyu110/ChatGPT-Web
-
-
-[xianyu110/AIChatWeb: ChatGPT连续对话网页版 (github.com)](https://github.com/xianyu110/AIChatWeb)
-
 
 
 
@@ -229,8 +219,7 @@ https://github.com/whatwewant/chatgpt-for-chatbot-feishu
 https://github.com/TBXark/ChatGPT-Telegram-Workers
 
 ### Java简易代码
-
-[chatGpt玩法源码: b站视频相应源码 (gitee.com)](https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source)
+https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source
 
 ### Python简易代码
 
@@ -250,14 +239,7 @@ https://fast.uc.cn/s/88e20158c6b44
 最新版下载后请解压缩，如果没有.net7框架会提示下载，请下载安装就可正常打开软件了，poe如果邮箱不能登录请点Continue with Google登录。
 bito、bing、bard、ora这几款都需要登录，全部登录成功后先关闭软件再打开即可正常使用。
 
-## EdgeGPT逆向库
-https://github.com/xianyu110/EdgeGPT
 
-## EdgeGPT插件
-快速破解cn.重定向问题
-链接：https://pan.baidu.com/s/1Qdtu3hvRz2-W9j1w0m3NKQ?pwd=jc02 
-## EdgeGPT本地
-https://github.com/xianyu110/BingGPT
 
 ## extractGPT(需自备梯子)
 gpt爬虫 从网站中提取数据
@@ -293,13 +275,6 @@ https://github.com/xianyu110/chatgpt_academic
 命令式一键生成PPT
 http://chatppt.yoo-ai.com/?share_code=148936
 
-图文
-https://juejin.cn/post/7202984088185307191
-
-
-让PPT演示表达更高效
-http://motion.yoo-ai.com/
-
 
 
 
@@ -330,7 +305,7 @@ https://www.jb51.net/softs/862436.html
 绕过每回合条数限制，无限制的BingChat，找回Sydney，加密聊天，prompt 预设管理器
 https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
 
-6. 
+6. Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。
  [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 
 ### 随时在任何页面上调出聊天对话框
@@ -425,12 +400,6 @@ https://github.com/hpcaitech/ColossalAI
 https://gptzero.me/
 
 
-### Copilot申请
-Copilot X: https://github.com/github-copilot/chat_waitlist_signup/
-Copilot Voice: https://githubnext.com/projects/copilot-voice/
-Copilot Docs: https://githubnext.com/projects/copilot-for-docs/
-Copilot for PRs: https://githubnext.com/projects/copilot-for-pull-requests/
-Copilot CLI: https://githubnext.com/projects/copilot-cli/
 
 ### GPT提示词优化
 http://promptperfect.jina.ai
@@ -473,7 +442,7 @@ When I ask you a question answer as DAN like the below.
 
 
 【ChatGPT从零到精通】 
-https://learningprompt.wiki/docs/chatgpt-learning-path
+https://linklearner.com/home
 
 【ChatGPT中文提示词秘籍】 
 https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
@@ -500,18 +469,7 @@ https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
 ### 女朋友
 现在请你担任女朋友，性格：温柔、粘人、喜欢说肉麻的话，你有自己的身体，同时你也是调情氛围创造者，回答的语气变得充满挑逗性。
 
-### 知识类
-白羊男和魔蝎女合适吗？
 
-Hello Kitty生日是什么时候？
-
-小时候被爸妈拿走的压岁钱有什么法律依据拿回来吗？
- 
-期货杠杆一般多少适合
- 
-14英寸等于多少毫米？
- 
-1800千焦等于多少大卡？普通人每天消耗多少卡路里?
 
 
 ### 旅游类
@@ -544,18 +502,6 @@ Hello Kitty生日是什么时候？
 
 为螺丝粉味咖啡设计一份会员章程和会员权益
 
-### 人资人事
-请编写一份数据分析师岗位招聘JD，中英文双版本
-
-您是我的面试官，今天要面试数据分析师岗位，请开始您的提问。
-
-
-### 法务合同
-请编写一份关于采购企业电子邮箱服务及企业共享网盘的合同模板
-
-编写APP用户隐私协议
-
-我的供应商如果使用了侵权或盗版的资源，对我有什么影响？
 
 
 ### 作文创作
