@@ -48,8 +48,7 @@ http://www.yibencezi.com/notes/253200?affiliate_id=1317
 
 https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
-789：
-https://pz.huzibuqiang.xyz/app_friend_registration.html?friend=Maynor123
+
 
 
 
@@ -487,9 +486,7 @@ https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
 
 
 
-## 查询余额
 
-查询填写的 Key 的余额。
 
 ### 恋爱类
 
