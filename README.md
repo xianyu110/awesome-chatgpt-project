@@ -58,6 +58,8 @@ https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
 https://github.com/xianyu110/carrot
 
+## 一行代码本地运行 AI 模型
+https://ollama.com/
 
 ## chatTTS
 ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。在HuggingFace中开源的版本为4万小时训练且未SFT的版本.
@@ -66,7 +68,12 @@ https://github.com/xianyu110/ChatTTS
 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 
 https://github.com/xianyu110/LangGPT
+## 两个免费无限制使用ChatGPT模型API
+FreeGPT35-Vercel 
+项目地址: https://github.com/cliouo/FreeGPT35-Vercel
 
+AURORA 
+项目地址: https://github.com/aurora-develop/aurora
 ## chatgpt-web-midjourney-proxy
 一个用户界面全部完成chatgptweb、中途、gpt、tts、耳语、suno-v3；同时支持Web/PWA/Linux/Win/MacOS平台
 https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main
@@ -105,14 +112,7 @@ https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8
 Bingo，一个让你呼吸顺畅 New Bing。
 
 高度还原 New Bing 网页版的主要操作，国内可用，兼容绝大多数微软 Bing AI 的功能，可自行部署使用。
-https://github.com/xianyu110/bingo
-
-
-用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-https://github.com/xianyu110/go-proxy-bingai
-
-ps:原项目作者已不维护,最新方法见: https://github.com/adams549659584/go-proxy-bingai/issues/378
+https://www.b1ng.chat/
 
 ## LangChain
 数据感知：将语言模型连接到其他数据源
