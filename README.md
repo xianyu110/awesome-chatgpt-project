@@ -58,6 +58,10 @@ https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
 https://github.com/xianyu110/carrot
 
+
+## chatTTS
+ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。在HuggingFace中开源的版本为4万小时训练且未SFT的版本.
+https://github.com/xianyu110/ChatTTS
 ## LangGPT
 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 
