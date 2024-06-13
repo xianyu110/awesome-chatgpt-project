@@ -54,9 +54,7 @@ https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
-## ChatGPT镜像站
 
-https://github.com/xianyu110/carrot
 
 ## 一行代码本地运行 AI 模型
 https://ollama.com/
