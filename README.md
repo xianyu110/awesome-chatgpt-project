@@ -330,6 +330,8 @@ i️ 注意：有时，某些提示可能无法按预期工作，或者可能被
 
 ## chatgpt接入小爱同学
 
+https://github.com/xianyu110/mi-gpt
+
 https://github.com/xianyu110/xiaogpt
 
 
