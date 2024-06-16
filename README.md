@@ -24,9 +24,8 @@
 4.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
 
-⭐:可使用
-⛔:失效
-❓ :失效 恢复未知
+# 免费镜像站
+https://chatgpt-plus.top/list
 
 ## 一站式AI聚合网站
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
