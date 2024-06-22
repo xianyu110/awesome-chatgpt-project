@@ -53,6 +53,12 @@ https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
+# MaxKB
+
+🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+
+
+https://github.com/xianyu110/MaxKB
 
 
 ## 一行代码本地运行 AI 模型
