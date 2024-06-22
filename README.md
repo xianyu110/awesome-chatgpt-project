@@ -47,7 +47,7 @@ http://www.yibencezi.com/notes/253200?affiliate_id=1317
 
 https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
-
+https://a1.nsc01.xyz/index.php#/register?code=6iPK3l3y
 
 
 
