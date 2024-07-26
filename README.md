@@ -28,7 +28,7 @@
 
 https://chatgpt-plus.top/list
 
-https://claude-opus.top/list
+https://claude.maynor1024
 
 ## 一站式AI聚合网站
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
