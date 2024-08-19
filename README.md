@@ -1,6 +1,6 @@
 # 最新最火的Chatgpt 项目
 # chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20240721
+# 最近更新时间: 20240819
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -57,6 +57,9 @@ https://a01.nyc01.xyz/register?code=6iPK3l3y
 
 https://www.ikun.run/aff/FQYOYHZM
 
+国外虚拟卡（可用于chatgpt订阅）
+
+https://wildcard.com.cn/i/DAOSHENG
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
