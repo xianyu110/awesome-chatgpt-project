@@ -52,6 +52,12 @@ https://b.nsyunb.cc/#/register?code=6iPK3l3y
 
 https://a01.nyc01.xyz/register?code=6iPK3l3y
 
+
+## 免备案云主机推荐
+
+https://www.ikun.run/aff/FQYOYHZM
+
+
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
 # MaxKB
