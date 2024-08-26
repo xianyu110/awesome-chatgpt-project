@@ -190,6 +190,10 @@ https://github.com/xianyu110/chatgpt-on-wechat
 
 在微信上迅速接入 ChatGPT，让它成为你最好的助手！
 https://github.com/xianyu110/wechat-chatgpt
+
+本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，支持Dify智能助手模式，调用工具和知识库，支持Dify工作流。
+https://github.com/hanfangyuan4396/dify-on-wechat
+
 ### 对接QQ
 基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性
 
