@@ -466,8 +466,6 @@ https://linklearner.com/home
 【ChatGPT中文提示词秘籍】 
 https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
 
-【AI研究社社群信息汇总】 
-https://hf0y97ff1r.feishu.cn/wiki/wikcnzbmAZXYkQaEj6jeofb0g5g
 
 
 【⭐LangGPT 结构化提示词】 
