@@ -59,7 +59,7 @@ https://www.ikun.run/aff/FQYOYHZM
 
 国外虚拟卡（可用于chatgpt订阅）
 
-https://wildcard.com.cn/i/DAOSHENG
+https://bewildcard.com/i/MAYNORAI
 
 ## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
