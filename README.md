@@ -26,14 +26,14 @@
 
 # 免费镜像站
 
-https://chatgpt-plus.top/list
+https://free.chatgpt-plus.top/list
 
-https://claude-opus.top/list/
+https://free.claude-opus.top/list/
 
 ## 一站式AI聚合网站
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
 
-https://api.maynor1024.live/
+https://vlink.cc/maynorai
 
 
 ## ChatGPT全方位实战与赚点小钱手册
