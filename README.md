@@ -36,13 +36,6 @@ https://free.claude-opus.top/list/
 https://vlink.cc/maynorai
 
 
-## ChatGPT全方位实战与赚点小钱手册
-将分享至少涵盖30篇正在盈利的副业项目，至少30%是蓝海项目。 以及详细的AI工具教程，包括但不限于AI写作、AI办公、AI出图、MJ使用、STD使用等
-
-http://www.yibencezi.com/notes/253200?affiliate_id=1317
-
-
-
 
 ## 魔法上网工具
 
