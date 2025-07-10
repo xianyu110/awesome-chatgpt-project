@@ -1411,3 +1411,7 @@ ChatGPT是一个强大的工具，但它仍然是一台机器，可能不能总�
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xianyu110/awesome-chatgpt-project&type=Date)](https://star-history.com/#xianyu110/awesome-chatgpt-project&Date)
+
+
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/xianyu110/awesome-chatgpt-project)
