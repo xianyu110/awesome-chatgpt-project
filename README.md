@@ -1412,6 +1412,9 @@ ChatGPT是一个强大的工具，但它仍然是一台机器，可能不能总�
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xianyu110/awesome-chatgpt-project&type=Date)](https://star-history.com/#xianyu110/awesome-chatgpt-project&Date)
 
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+
+EdgeOne Logo 如下，官网链接：[亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/zh?from=github)
 
 
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/xianyu110/awesome-chatgpt-project)
+<img width="2163" height="308" alt="image" src="https://github.com/user-attachments/assets/0e3b34f4-be70-4e1d-90bf-bb44f67dc4e8" />
