@@ -1,0 +1,116 @@
+name: Auto Update Links and Timestamp
+
+on:
+  schedule:
+    # 每天北京时间上午 9 点（UTC 1:00）执行
+    - cron: '0 1 * * *'
+
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 每周一次全面检测（周日）
+  # - cron: '0 2 * * 0'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Check links
+        run: |
+          echo "🔍 开始检测链接..."
+          python3 check_links.py
+        continue-on-error: true
+
+      - name: Update README timestamp
+        run: |
+          echo "⏰ 更新时间戳..."
+          python3 update_readme_time.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet . || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add README.md link_check_report.md link_check_report.json
+
+          # 生成提交信息
+          FAILED_COUNT=$(jq -r '.failed' link_check_report.json)
+          SUCCESS_COUNT=$(jq -r '.success' link_check_report.json)
+          TOTAL_COUNT=$(jq -r '.total' link_check_report.json)
+          SUCCESS_RATE=$(jq -r '.success_rate' link_check_report.json)
+
+          COMMIT_MSG="chore: 自动更新链接检测报告 [skip ci]
+
+📊 检测结果:
+- ✅ 有效链接: ${SUCCESS_COUNT}/${TOTAL_COUNT}
+- ❌ 失效链接: ${FAILED_COUNT}
+- 📈 成功率: ${SUCCESS_RATE}%
+
+🤖 由 GitHub Actions 自动更新"
+
+          git commit -m "$COMMIT_MSG"
+          git push
+
+      - name: Create issue for failed links
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 检查是否有失效链接
+          FAILED_COUNT=$(jq -r '.failed' link_check_report.json)
+
+          if [ "$FAILED_COUNT" -gt 0 ]; then
+            echo "⚠️ 发现 ${FAILED_COUNT} 个失效链接，创建 Issue..."
+
+            # 创建 Issue 内容
+            ISSUE_TITLE="🔗 发现 ${FAILED_COUNT} 个失效链接需要修复"
+            ISSUE_BODY="## 链接检测报告
+
+检测时间: $(date '+%Y-%m-%d %H:%M:%S')
+
+### 📊 统计信息
+- 总链接数: $(jq -r '.total' link_check_report.json)
+- ✅ 有效链接: $(jq -r '.success' link_check_report.json)
+- ❌ 失效链接: ${FAILED_COUNT}
+- 成功率: $(jq -r '.success_rate' link_check_report.json)%
+
+### ❌ 失效链接列表
+
+$(jq -r '.results[] | select(.status=="failed") | "- [\(.text)](\(.url)) - 错误: \(.message)"' link_check_report.json)
+
+### 📋 详细报告
+查看完整报告: [link_check_report.md](./link_check_report.md)
+
+---
+🤖 此 Issue 由 GitHub Actions 自动创建"
+
+            # 使用 gh CLI 创建 Issue
+            echo "$ISSUE_BODY" | gh issue create \
+              --title "$ISSUE_TITLE" \
+              --body-file - \
+              --label "automated,links" || true
+          else
+            echo "✅ 所有链接都正常"
+          fi

@@ -1,0 +1,835 @@
+{
+  "check_time": "2025-10-16T23:45:43.371813",
+  "total": 118,
+  "success": 85,
+  "failed": 33,
+  "success_rate": 72.03389830508475,
+  "results": [
+    {
+      "url": "https://github.com/mpociot/chatgpt-vscode",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "ChatGPT for VSCode"
+    },
+    {
+      "url": "https://github.com/terror/chatgpt.nvim",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "chatgpt.vim"
+    },
+    {
+      "url": "https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "项目展示"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgptproject/blob/main/%E8%8B%B1%E6%96%87%E6%96%87%E6%A1%A3.md",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "英文"
+    },
+    {
+      "url": "https://edgeone.ai/zh?from=github",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne"
+    },
+    {
+      "url": "https://api.star-history.com/svg?repos=xianyu110/awesome-chatgpt-project&type=Date",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "![Star History Chart"
+    },
+    {
+      "url": "https://www.planttext.com/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "PlantUML Online Server。"
+    },
+    {
+      "url": "https://github.com/cesarhuret/docGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "docGPT"
+    },
+    {
+      "url": "https://mermaid.live/edit#pako:eNp9kstuwjAQRX9l5DX8QCp1kSCxqChIsEtYDPEERo3t4EerivDvnUB5qQ9v_Jpzfa_tg6qdJpWprcduB6vJU2VB2qJceKdTTX4N4_FzvySrAxgKAbcUILoeXsqV67hefxNFWTgbkrkSaRNqzxupRquhPm_eaTTemR8ql-lZIjpPGtj2kJe5d2_k4VXsXoofF2_I3SEDK1nQR47s7PoW77p04sR7RLZ35AfHHSTL-0Q9zMt50wSK4a-0ObXOboeLAeyhmF63Yepd6n6NV6CFDYHmd9anmAKb1EbuWnpwHf4JPBPXZ-fSk7fY9jArZxRRY8QBVCMlPgyylmc-DEKVijsyVKlMhpoalEMrVdmjlGKKbvlpa5VFn2ikUic6NGGUD2JU1mAb6PgFrr3C6g",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "mermaid.live"
+    },
+    {
+      "url": "https://expressjs.com/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://expressjs.com"
+    },
+    {
+      "url": "https://space.bilibili.com/399102586\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://space.bilibili.com/399102586\""
+    },
+    {
+      "url": "https://github.com/LiLittleCat/intellij-chatgpt",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "intellij-chatgpt"
+    },
+    {
+      "url": "https://user-images.githubusercontent.com/53889513/233519237-d7d97435-e1ca-48b3-853a-02ef5c12d182.png",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "image"
+    },
+    {
+      "url": "https://link3.cc/maynorai",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://link3.cc/maynorai"
+    },
+    {
+      "url": "https://agi2.maynor1024.live/list/#/home",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://agi2.maynor1024.live/list/#/home"
+    },
+    {
+      "url": "https://github.com/xianyu110\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://github.com/xianyu110\""
+    },
+    {
+      "url": "https://img.shields.io/badge/csdn-博客-purple.svg\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://img.shields.io/badge/csdn-博客-purple.svg\""
+    },
+    {
+      "url": "https://www.ikun.run/aff/FQYOYHZM",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://www.ikun.run/aff/FQYOYHZM"
+    },
+    {
+      "url": "https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://img.shields.io/badge/bilibili-%E8%A7%86%E9%A2%91-black.svg\""
+    },
+    {
+      "url": "https://blog.csdn.net/xianyu120\"",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://blog.csdn.net/xianyu120\""
+    },
+    {
+      "url": "https://bewildcard.com/i/MAYNORAI",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://bewildcard.com/i/MAYNORAI"
+    },
+    {
+      "url": "https://b.nsyunb.cc/#/register?code=6iPK3l3y",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://b.nsyunb.cc/#/register?code=6iPK3l3y"
+    },
+    {
+      "url": "https://github.com/xianyu110/MaxKB",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/MaxKB"
+    },
+    {
+      "url": "https://github.com/xianyu110/LangGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/LangGPT"
+    },
+    {
+      "url": "https://a01.nyc01.xyz/register?code=6iPK3l3y",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://a01.nyc01.xyz/register?code=6iPK3l3y"
+    },
+    {
+      "url": "https://github.com/xianyu110/ChatTTS",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/ChatTTS"
+    },
+    {
+      "url": "https://github.com/cliouo/FreeGPT35-Vercel",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/cliouo/FreeGPT35-Vercel"
+    },
+    {
+      "url": "https://ollama.com/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://ollama.com/"
+    },
+    {
+      "url": "https://link-ai.tech/home?share=uDK5KC",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://link-ai.tech/home?share=uDK5KC"
+    },
+    {
+      "url": "https://img.shields.io/badge/github-github-yellow.svg\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://img.shields.io/badge/github-github-yellow.svg\""
+    },
+    {
+      "url": "https://github.com/xianyu110/new-api",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/new-api"
+    },
+    {
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/OpenBMB/ChatDev"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main"
+    },
+    {
+      "url": "https://github.com/aurora-develop/aurora",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/aurora-develop/aurora"
+    },
+    {
+      "url": "https://github.com/xianyu110/FastGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/FastGPT"
+    },
+    {
+      "url": "https://img.shields.io/badge/QQ:1002569303-green.svg\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://img.shields.io/badge/QQ:1002569303-green.svg\""
+    },
+    {
+      "url": "https://github.com/2951121599/Bili-Insight",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/2951121599/Bili-Insight"
+    },
+    {
+      "url": "https://github.com/xianyu110/langchain",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/langchain"
+    },
+    {
+      "url": "https://github.com/xianyu110/AgentGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/AgentGPT"
+    },
+    {
+      "url": "https://github.com/geekan/MetaGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/geekan/MetaGPT"
+    },
+    {
+      "url": "https://www.b1ng.chat/",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://www.b1ng.chat/"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatGPT-web-1",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatGPT-web-1"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgpt-web-2/tree/main",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatgpt-web-2/tree/main"
+    },
+    {
+      "url": "https://www.cnblogs.com/stulzq/p/17271937.html",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://www.cnblogs.com/stulzq/p/17271937.html"
+    },
+    {
+      "url": "https://github.com/xianyu110/gpt4free",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/gpt4free"
+    },
+    {
+      "url": "https://wechat.aibotk.com?r=zRwRDK",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://wechat.aibotk.com?r=zRwRDK"
+    },
+    {
+      "url": "https://github.com/xianyu110/Auto-GPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/Auto-GPT"
+    },
+    {
+      "url": "https://gitee.com/the_efforts_paid_offf/wechatbot",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://gitee.com/the_efforts_paid_offf/wechatbot"
+    },
+    {
+      "url": "https://www.chatbase.co/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://www.chatbase.co/"
+    },
+    {
+      "url": "https://github.com/xianyu110/TalkGPT.git",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/TalkGPT.git"
+    },
+    {
+      "url": "https://github.com/xianyu110/staringai-mini-program",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/staringai-mini-program"
+    },
+    {
+      "url": "https://github.com/hanfangyuan4396/dify-on-wechat",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/hanfangyuan4396/dify-on-wechat"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgpt-on-wechat",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatgpt-on-wechat"
+    },
+    {
+      "url": "https://github.com/xianyu110/xiaomai-bot",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/xiaomai-bot"
+    },
+    {
+      "url": "https://github.com/xianyu110/QChatGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/QChatGPT"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgpt-mirai-qq-bot",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatgpt-mirai-qq-bot"
+    },
+    {
+      "url": "https://github.com/Syan-Lin/CyberWaifu",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/Syan-Lin/CyberWaifu"
+    },
+    {
+      "url": "https://github.com/xianyu110/wechat-chatgpt",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/wechat-chatgpt"
+    },
+    {
+      "url": "https://github.com/xianyu110/ChatGPT-Feishu",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/ChatGPT-Feishu"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatbot-api",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatbot-api"
+    },
+    {
+      "url": "https://github.com/xianyu110/QQChannelChatGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/QQChannelChatGPT"
+    },
+    {
+      "url": "https://github.com/eryajf/chatgpt-dingtalk",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/eryajf/chatgpt-dingtalk"
+    },
+    {
+      "url": "https://github.com/whatwewant/chatgpt-for-chatbot-feishu",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/whatwewant/chatgpt-for-chatbot-feishu"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ"
+    },
+    {
+      "url": "https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source"
+    },
+    {
+      "url": "https://github.com/gtoxlili/wechat-chatGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/gtoxlili/wechat-chatGPT"
+    },
+    {
+      "url": "https://fast.uc.cn/s/88e20158c6b44",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://fast.uc.cn/s/88e20158c6b44"
+    },
+    {
+      "url": "https://github.com/xx025/browser-chatgptapi",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://github.com/xx025/browser-chatgptapi"
+    },
+    {
+      "url": "https://chatexcel.com/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://chatexcel.com/"
+    },
+    {
+      "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/TBXark/ChatGPT-Telegram-Workers"
+    },
+    {
+      "url": "https://blog.csdn.net/xianyu120/article/details/128930285",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://blog.csdn.net/xianyu120/article/details/128930285"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatgpt_academic",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatgpt_academic"
+    },
+    {
+      "url": "https://github.com/kaixindelele/ChatPaper",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/kaixindelele/ChatPaper"
+    },
+    {
+      "url": "https://github.com/alibaba/Chat2DB",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/alibaba/Chat2DB"
+    },
+    {
+      "url": "https://github.com/yetone/openai-translator",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/yetone/openai-translator"
+    },
+    {
+      "url": "https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN"
+    },
+    {
+      "url": "https://www.jb51.net/softs/867661.html#downintro2",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://www.jb51.net/softs/867661.html#downintro2"
+    },
+    {
+      "url": "https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click"
+    },
+    {
+      "url": "https://www.jb51.net/softs/862436.html",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://www.jb51.net/softs/862436.html"
+    },
+    {
+      "url": "https://www.icloud.com.cn/，注册好后点击",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://www.icloud.com.cn/，注册好后点击"
+    },
+    {
+      "url": "https://github.com/gragland/chatgpt-everywhere",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/gragland/chatgpt-everywhere"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc"
+    },
+    {
+      "url": "https://twitter.com/marcelpociot/status/1599180144551526400",
+      "status": "failed",
+      "status_code": null,
+      "message": "Timeout",
+      "text": "demo"
+    },
+    {
+      "url": "https://www.chatpdf.com/",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://www.chatpdf.com/"
+    },
+    {
+      "url": "https://chatdoc.com/",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chatdoc.com/"
+    },
+    {
+      "url": "https://github.com/xianyu110/chatGPTBox",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/chatGPTBox"
+    },
+    {
+      "url": "http://chatppt.yoo-ai.com/?share_code=148936",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "http://chatppt.yoo-ai.com/?share_code=148936"
+    },
+    {
+      "url": "https://github.com/mushan0x0/AI0x0.com",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/mushan0x0/AI0x0.com"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn"
+    },
+    {
+      "url": "https://github.com/xianyu110/xiaogpt",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/xiaogpt"
+    },
+    {
+      "url": "https://github.com/xianyu110/CodeGeeX2",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/CodeGeeX2"
+    },
+    {
+      "url": "https://github.com/xianyu110/mi-gpt",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/xianyu110/mi-gpt"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related"
+    },
+    {
+      "url": "https://github.com/skydoves/chatgpt-android",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/skydoves/chatgpt-android"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo"
+    },
+    {
+      "url": "https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai"
+    },
+    {
+      "url": "https://github.com/sonnylazuardi/chatgpt-desktop",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/sonnylazuardi/chatgpt-desktop"
+    },
+    {
+      "url": "https://github.com/hpcaitech/ColossalAI",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/hpcaitech/ColossalAI"
+    },
+    {
+      "url": "https://github.com/rawandahmad698/PyChatGPT",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/rawandahmad698/PyChatGPT"
+    },
+    {
+      "url": "https://github.com/PlexPt/chatgpt-java",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/PlexPt/chatgpt-java"
+    },
+    {
+      "url": "https://gptzero.me/",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://gptzero.me/"
+    },
+    {
+      "url": "https://linklearner.com/home",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://linklearner.com/home"
+    },
+    {
+      "url": "https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2"
+    },
+    {
+      "url": "http://promptperfect.jina.ai",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "http://promptperfect.jina.ai"
+    },
+    {
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi"
+    },
+    {
+      "url": "https://expressjs.com",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://expressjs.com"
+    },
+    {
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb"
+    },
+    {
+      "url": "https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png\"",
+      "status": "failed",
+      "status_code": 403,
+      "message": "HTTP 403",
+      "text": "https://user-images.githubusercontent.com/53889513/218687473-46ff423a-6931-4f91-9417-8407186ad671.png\""
+    },
+    {
+      "url": "https://source.unsplash.com/1600x900/?<PUT",
+      "status": "failed",
+      "status_code": 503,
+      "message": "HTTP 503",
+      "text": "https://source.unsplash.com/1600x900/?<PUT"
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/0e3b34f4-be70-4e1d-90bf-bb44f67dc4e8\"",
+      "status": "failed",
+      "status_code": 404,
+      "message": "HTTP 404",
+      "text": "https://github.com/user-attachments/assets/0e3b34f4-be70-4e1d-90bf-bb44f67dc4e8\""
+    },
+    {
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg",
+      "status": "success",
+      "status_code": 200,
+      "message": "OK",
+      "text": "https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg"
+    },
+    {
+      "url": "https://www.cursor.so/",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://www.cursor.so/"
+    },
+    {
+      "url": "https://huggingface.co/spaces/merve/ChatGPT-prompt-generator",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://huggingface.co/spaces/merve/ChatGPT-prompt-generator"
+    },
+    {
+      "url": "https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m"
+    },
+    {
+      "url": "https://aq92z6vors3.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://aq92z6vors3.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe"
+    },
+    {
+      "url": "https://twitter.com/gabe_ragland/status/1599466486422470656",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://twitter.com/gabe_ragland/status/1599466486422470656"
+    },
+    {
+      "url": "https://star-history.com/#xianyu110/awesome-chatgpt-project&Date",
+      "status": "failed",
+      "status_code": null,
+      "message": "Connection Error",
+      "text": "https://star-history.com/#xianyu110/awesome-chatgpt-project&Date"
+    }
+  ]
+}

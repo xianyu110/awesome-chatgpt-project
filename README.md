@@ -1,6 +1,9 @@
-# 最新最火的Chatgpt 项目
-# chatgptproject 持续更新，纯手工整理，欢迎star！
-# 最近更新时间: 20240819
+# 最新最火的 ChatGPT 项目
+
+**chatgptproject 持续更新，纯手工整理，欢迎 star！**
+
+> **📅 最近更新时间**: 2025-10-16
+> **🔗 链接检测状态**: ✅ 85/118 链接有效 (72.03%) - [查看完整检测报告](./link_check_report.md)
 <p align="center">
 <div>
 <a href="https://blog.csdn.net/xianyu120"> <img src="https://img.shields.io/badge/csdn-博客-purple.svg" alt="CSDN" /></a> 
@@ -14,307 +17,408 @@
 
 中文| [英文](https://github.com/xianyu110/chatgptproject/blob/main/%E8%8B%B1%E6%96%87%E6%96%87%E6%A1%A3.md)
 
-# 目录导航
-1.[chatGPT注册](https://github.com/xianyu110/chatgptproject#%E6%B3%A8%E5%86%8C-%E5%AB%8C%E9%BA%BB%E7%83%A6%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%B9%B0%E4%B8%8B%E9%9D%A2%E8%B4%A6%E5%8F%B7)
+## 📚 目录导航
 
-2.[chatGPT成品项目整理](https://github.com/xianyu110/chatgptproject#chatgpt%E6%88%90%E5%93%81%E9%A1%B9%E7%9B%AE%E6%95%B4%E7%90%86)
-
-3.[调教指南](https://github.com/xianyu110/chatgptproject#%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97)
-
-4.[高效使用chatGPT的小技巧](https://github.com/xianyu110/chatgptproject#%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8chatgpt%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7)
+1. [ChatGPT 注册](#注册-嫌麻烦可以直接买下面账号)
+2. [ChatGPT 成品项目整理](#chatgpt成品项目整理)
+3. [调教指南](#调教指南)
+4. [高效使用 ChatGPT 的小技巧](#高效使用chatgpt的小技巧)
 
 
-# 免费镜像站
+## 🔗 免费镜像站
 
-https://agi2.maynor1024.live/list/#/home
-授权码 claude0910
+- **网址**: https://agi2.maynor1024.live/list/#/home
+- **授权码**: claude0910
 
-## 一站式AI聚合网站
+## 🤖 一站式 AI 聚合网站
+
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
 
-https://link3.cc/maynorai
+- **网址**: https://link3.cc/maynorai
 
+## 🌐 魔法上网工具
 
-## 魔法上网工具
+**耐思云**:
+- https://b.nsyunb.cc/#/register?code=6iPK3l3y
+- https://a01.nyc01.xyz/register?code=6iPK3l3y
 
-耐思云：
+## ☁️ 免备案云主机推荐
 
-https://b.nsyunb.cc/#/register?code=6iPK3l3y
+- **云主机**: https://www.ikun.run/aff/FQYOYHZM
+- **国外虚拟卡**（可用于 ChatGPT 订阅）: https://bewildcard.com/i/MAYNORAI
 
-https://a01.nyc01.xyz/register?code=6iPK3l3y
+---
 
+## 🎯 ChatGPT 成品项目整理
 
-## 免备案云主机推荐
+![项目展示](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
 
-https://www.ikun.run/aff/FQYOYHZM
-
-国外虚拟卡（可用于chatgpt订阅）
-
-https://bewildcard.com/i/MAYNORAI
-
-## chatGPT成品项目整理![28BA0F4A](https://user-images.githubusercontent.com/53889513/218685184-15832337-d519-4bcb-9dd4-a49cd6ca9201.png)
-
-# MaxKB
+### MaxKB
 
 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 
+- **项目地址**: https://github.com/xianyu110/MaxKB
 
-https://github.com/xianyu110/MaxKB
+### Ollama - 一行代码本地运行 AI 模型
+
+- **官网**: https://ollama.com/
+
+### ChatTTS
+
+ChatTTS 是专门为对话场景设计的文本转语音模型，例如 LLM 助手对话任务。它支持英文和中文两种语言。最大的模型使用了 10 万小时以上的中英文数据进行训练。在 HuggingFace 中开源的版本为 4 万小时训练且未 SFT 的版本。
+
+- **项目地址**: https://github.com/xianyu110/ChatTTS
+
+### LangGPT
+
+Structured Prompt，Language of GPT，结构化提示词，结构化 Prompt
+
+- **项目地址**: https://github.com/xianyu110/LangGPT
+### 两个免费无限制使用 ChatGPT 模型 API
+
+**FreeGPT35-Vercel**
+- **项目地址**: https://github.com/cliouo/FreeGPT35-Vercel
+
+**AURORA**
+- **项目地址**: https://github.com/aurora-develop/aurora
+
+### chatgpt-web-midjourney-proxy
+
+一个用户界面全部完成 ChatGPT Web、中途、GPT、TTS、耳语、Suno-v3；同时支持 Web/PWA/Linux/Win/MacOS 平台
+
+- **项目地址**: https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main
+
+### new-api
+
+基于 One API 的二次开发版本，支持 Midjourney，仅供个人管理渠道使用，请勿用于商业 API 分发！
+
+- **项目地址**: https://github.com/xianyu110/new-api
+### ChatDev
+
+ChatDev 是 OpenBMB 的发起者——面壁智能（ModelBest）联合清华大学 NLP 实验室共同开发的大模型全流程自动化软件开发框架，火遍全球，开源 6 周获星标 13k，吸引国内外众多软件开发和创业者成为"自来水"。近期，ChatDev 新增两个实用性加满的新功能："Human-Agent-Interaction"和"Git"，可以实现人与智能体的交互和 AI 程序员代码管理。
+
+- **项目地址**: https://github.com/OpenBMB/ChatDev
+
+### LinkAI
+
+LinkAI 聚合了多模态模型，提供知识库、Agent 插件等增强服务，帮助应用快速落地。
+
+- **官网**: https://link-ai.tech/home?share=uDK5KC
+
+### MetaGPT
+
+🌟 多代理框架：给定一行需求，返回 PRD、设计、任务、存储库
+
+- **项目地址**: https://github.com/geekan/MetaGPT
+
+### FastGPT
+
+一个快速使用 ChatGPT 的平台。支持自定义 prompt 管理。支持构建专属知识库
+
+- **项目地址**: https://github.com/xianyu110/FastGPT
+- **在线体验**: https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8
 
 
-## 一行代码本地运行 AI 模型
-https://ollama.com/
-
-## chatTTS
-ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。在HuggingFace中开源的版本为4万小时训练且未SFT的版本.
-https://github.com/xianyu110/ChatTTS
-## LangGPT
-Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-
-https://github.com/xianyu110/LangGPT
-## 两个免费无限制使用ChatGPT模型API
-FreeGPT35-Vercel 
-项目地址: https://github.com/cliouo/FreeGPT35-Vercel
-
-AURORA 
-项目地址: https://github.com/aurora-develop/aurora
-## chatgpt-web-midjourney-proxy
-一个用户界面全部完成chatgptweb、中途、gpt、tts、耳语、suno-v3；同时支持Web/PWA/Linux/Win/MacOS平台
-https://github.com/xianyu110/chatgpt-web-midjourney-proxy/tree/main
-## new-api
-基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！  
-https://github.com/xianyu110/new-api
-## ChatDev
-ChatDev是OpenBMB的发起者——面壁智能（ModelBest）联合清华大学NLP实验室共同开发的大模型全流程自动化软件开发框架，火遍全球，开源6周获星标13k，吸引国内外众多软件开发和创业者成为“自来水”。近期，ChatDev新增两个实用性加满的新功能：“Human-Agent-Interaction“和”Git", 可以实现人与智能体的交互和AI程序员代码管理。
-
-GitHub地址：https://github.com/OpenBMB/ChatDev
-
-
-## LinkAI
-LinkAI聚合了多模态模型，提供知识库、Agent插件等增强服务，帮助应用快速落地。
-
-https://link-ai.tech/home?share=uDK5KC
-
-## MetaGPT
-🌟多代理框架：给定一行需求，返回 PRD、设计、任务、存储库
-https://github.com/geekan/MetaGPT
-
-## FastGPT
-一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
-
-https://github.com/xianyu110/FastGPT
-
-在线体验网站：
-https://fastgpt.run?inviterId=6459e154205a3ce6fcd97bf8
 
 
 
-
-
-## 这是一个使用newbing的网页
+### 使用 New Bing 的网页 - Bingo
 
 Bingo，一个让你呼吸顺畅 New Bing。
 
 高度还原 New Bing 网页版的主要操作，国内可用，兼容绝大多数微软 Bing AI 的功能，可自行部署使用。
-https://www.b1ng.chat/
 
-## LangChain
-数据感知：将语言模型连接到其他数据源
-代理：允许语言模型与其环境交互
-https://github.com/xianyu110/langchain
+- **官网**: https://www.b1ng.chat/
 
-## 白嫖GPT4：
-https://github.com/xianyu110/gpt4free
+### LangChain
 
-## Bili Insight
-无需点开视频自动总结内容的真省流助手，GPT洞察B站视频内容的Chrome插件
+- **数据感知**: 将语言模型连接到其他数据源
+- **代理**: 允许语言模型与其环境交互
+- **项目地址**: https://github.com/xianyu110/langchain
 
-Github地址：https://github.com/2951121599/Bili-Insight
+### 白嫖 GPT4
 
-插件上线Chrome商店：https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN
+- **项目地址**: https://github.com/xianyu110/gpt4free
 
-## AgentGPT：浏览器中直接部署自主 AI 智能体
-https://github.com/xianyu110/AgentGPT
+### Bili Insight
 
-## Auto-GPT
-https://github.com/xianyu110/Auto-GPT
+无需点开视频自动总结内容的真省流助手，GPT 洞察 B 站视频内容的 Chrome 插件
+
+- **GitHub 地址**: https://github.com/2951121599/Bili-Insight
+- **Chrome 商店**: https://chrome.google.com/webstore/detail/bili-insight%EF%BC%8C%E6%B4%9E%E5%AF%9Fb%E7%AB%99%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E6%8F%92%E4%BB%B6/akodljjoaekbfjacabnihcbcbioidnfg?hl=zh-CN
+
+### AgentGPT：浏览器中直接部署自主 AI 智能体
+
+- **项目地址**: https://github.com/xianyu110/AgentGPT
+
+### Auto-GPT
+
+- **项目地址**: https://github.com/xianyu110/Auto-GPT
 ### 网页版
-ChatGPT Web
-https://github.com/xianyu110/chatgpt-web-2/tree/main
 
-本项目为chatgpt私有化部署，基于fastapi vue3 chatgpt api实现。
-https://github.com/xianyu110/chatGPT-web-1
+**ChatGPT Web**
 
+- **项目地址**: https://github.com/xianyu110/chatgpt-web-2/tree/main
 
+**ChatGPT 私有化部署**
 
-## 使用azure openai 部署chatgpt（访问快）
-https://www.cnblogs.com/stulzq/p/17271937.html
+本项目为 ChatGPT 私有化部署，基于 FastAPI + Vue3 + ChatGPT API 实现。
 
-## chatGPT自制网页
-这是一个，ChatGPT3.5 API 服务（即在OpenAI网页使用的模型），它允许连接多个ChatGPT账户协同工作，并构建一个对外的API接口服务。
-https://github.com/xx025/browser-chatgptapi
+- **项目地址**: https://github.com/xianyu110/chatGPT-web-1
+
+### 使用 Azure OpenAI 部署 ChatGPT（访问快）
+
+- **教程地址**: https://www.cnblogs.com/stulzq/p/17271937.html
+
+### ChatGPT 自制网页
+
+这是一个 ChatGPT 3.5 API 服务（即在 OpenAI 网页使用的模型），它允许连接多个 ChatGPT 账户协同工作，并构建一个对外的 API 接口服务。
+
+- **项目地址**: https://github.com/xx025/browser-chatgptapi
 
 ### 自定义聊天机器人
-只需上传文档或添加指向您网站的链接，即可获得一个类似 ChatGPT 的聊天机器人，可以回答有关它的任何问题。然后将聊天小部件添加到您的网站。
-https://www.chatbase.co/
 
+只需上传文档或添加指向您网站的链接，即可获得一个类似 ChatGPT 的聊天机器人，可以回答有关它的任何问题。然后将聊天小部件添加到您的网站。
+
+- **官网**: https://www.chatbase.co/
 
 ### TalkGPT
+
 通过对话与 ChatGPT 交流的小玩具。
-https://github.com/xianyu110/TalkGPT.git
+
+- **项目地址**: https://github.com/xianyu110/TalkGPT.git
 
 ### 小程序版
 
 对接 ChatGPT 的 OpenAI 接口，在国内实现与 ChatGPT 实时聊天，包含会话界面和聊天界面，一键分享聊天记录到微信聊天和朋友圈
-https://github.com/xianyu110/staringai-mini-program
 
+- **项目地址**: https://github.com/xianyu110/staringai-mini-program
+
+---
 
 ### 对接微信
-微秘书，部署简单
-https://wechat.aibotk.com?r=zRwRDK
+
+**微秘书，部署简单**
+
+- **官网**: https://wechat.aibotk.com?r=zRwRDK
+
+**ChatGPT-on-WeChat**
 
 Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
-https://github.com/xianyu110/chatgpt-on-wechat
 
-慎用！容易封号
-[wechatbot: ChatGPT for wechat (gitee.com)](https://gitee.com/the_efforts_paid_offf/wechatbot)
+- **项目地址**: https://github.com/xianyu110/chatgpt-on-wechat
+
+**⚠️ 慎用！容易封号**
+
+- **项目地址**: https://gitee.com/the_efforts_paid_offf/wechatbot
+
+**WeChat-ChatGPT**
 
 在微信上迅速接入 ChatGPT，让它成为你最好的助手！
-https://github.com/xianyu110/wechat-chatgpt
 
-本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，支持Dify智能助手模式，调用工具和知识库，支持Dify工作流。
-https://github.com/hanfangyuan4396/dify-on-wechat
+- **项目地址**: https://github.com/xianyu110/wechat-chatgpt
 
-### 对接QQ
-基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性
+**Dify-on-WeChat**
 
-https://github.com/xianyu110/QChatGPT
+本项目为 chatgpt-on-wechat 下游分支，额外对接了 LLMOps 平台 Dify，支持 Dify 智能助手模式，调用工具和知识库，支持 Dify 工作流。
 
-🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (内有视频教程）
-https://github.com/xianyu110/chatgpt-mirai-qq-bot
+- **项目地址**: https://github.com/hanfangyuan4396/dify-on-wechat
 
-一个以Graia Ariadne框架为基础的 QQ 机器人
-https://github.com/xianyu110/xiaomai-bot
+### 对接 QQ
 
-qq机器人🤖
+**QChatGPT**
+
+基于 OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ 实现，多平台一键部署，高稳定性
+
+- **项目地址**: https://github.com/xianyu110/QChatGPT
+
+**ChatGPT-Mirai-QQ-Bot**
+
+🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速（内有视频教程）
+
+- **项目地址**: https://github.com/xianyu110/chatgpt-mirai-qq-bot
+
+**小麦机器人**
+
+一个以 Graia Ariadne 框架为基础的 QQ 机器人
+
+- **项目地址**: https://github.com/xianyu110/xiaomai-bot
+
+**CyberWaifu - QQ 机器人 🤖**
+
 距离上次更新已经过了很久，这段时间基于 Langchain 重构了一下代码。受 Auto-GPT 启发引入了思考链和记忆数据库，使 AI 更真实。但是受限于上下文长度，目前的效果还没达到理想情况，等大模型的能力增强，战未来！
-开源地址：https://github.com/Syan-Lin/CyberWaifu
 
+- **开源地址**: https://github.com/Syan-Lin/CyberWaifu
 
-### QQ机器人频道
-https://github.com/xianyu110/QQChannelChatGPT
+### QQ 机器人频道
+
+- **项目地址**: https://github.com/xianyu110/QQChannelChatGPT
 
 ### 对接公众号
 
-[gtoxlili/wechat-chatGPT: 实现微信公众号被动返回接口的ChatGPT (github.com)](https://github.com/gtoxlili/wechat-chatGPT)
+- **项目地址**: https://github.com/gtoxlili/wechat-chatGPT
 
 ### 对接钉钉
 
-https://github.com/eryajf/chatgpt-dingtalk
+- **项目地址**: https://github.com/eryajf/chatgpt-dingtalk
 
 ### 对接知识星球
 
-[xianyu110/chatbot-api: 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。 (github.com)](https://github.com/xianyu110/chatbot-api)
+《ChatGPT AI 问答助手》开源免费项目，涵盖爬虫接口、ChatGPT API 对接、DDD 架构设计、镜像打包、Docker 容器部署，小巧精悍，流程全面。对于 Java 编程伙伴来说，非常具有学习价值。
+
+- **项目地址**: https://github.com/xianyu110/chatbot-api
 
 ### 对接飞书
 
-https://github.com/xianyu110/ChatGPT-Feishu
+**ChatGPT-Feishu**
+
+- **项目地址**: https://github.com/xianyu110/ChatGPT-Feishu
+
+**ChatGPT-for-Chatbot-Feishu**
 
 快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理
-https://github.com/whatwewant/chatgpt-for-chatbot-feishu
 
-### 对接Telegram
-https://github.com/TBXark/ChatGPT-Telegram-Workers
+- **项目地址**: https://github.com/whatwewant/chatgpt-for-chatbot-feishu
 
-### Java简易代码
-https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source
+### 对接 Telegram
 
-### Python简易代码
+- **项目地址**: https://github.com/TBXark/ChatGPT-Telegram-Workers
 
-https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
+### Java 简易代码
 
-### 必应接合chatgpt申请
-https://blog.csdn.net/xianyu120/article/details/128930285
+- **项目地址**: https://gitee.com/the_efforts_paid_offf/chat-gpt-play-source
 
-## 聚合各大模型的插件
-地址：
-https://fast.uc.cn/s/88e20158c6b44
-密码：aZEE
+### Python 简易代码
 
-【苹果电脑可以暂时用虚拟机运行】
-最新翻译功能对接的是谷歌接口，如果你无法访问谷歌，则无法使用。
-目前安卓版需要用Apple id登录，Apple ID注册直接从这里：https://www.icloud.com.cn/，注册好后点击continue with Apple登录软件
-最新版下载后请解压缩，如果没有.net7框架会提示下载，请下载安装就可正常打开软件了，poe如果邮箱不能登录请点Continue with Google登录。
-bito、bing、bard、ora这几款都需要登录，全部登录成功后先关闭软件再打开即可正常使用。
+- **教程地址**: https://mp.weixin.qq.com/s/gH9D91T1KB8r_-LwoS5fQQ
+
+### 必应接合 ChatGPT 申请
+
+- **教程地址**: https://blog.csdn.net/xianyu120/article/details/128930285
+
+---
+
+## 🔌 聚合各大模型的插件
+
+- **下载地址**: https://fast.uc.cn/s/88e20158c6b44
+- **密码**: aZEE
+
+> **使用说明**：
+> - 苹果电脑可以暂时用虚拟机运行
+> - 最新翻译功能对接的是谷歌接口，如果你无法访问谷歌，则无法使用
+> - 目前安卓版需要用 Apple ID 登录，Apple ID 注册直接从这里：https://www.icloud.com.cn/，注册好后点击 continue with Apple 登录软件
+> - 最新版下载后请解压缩，如果没有 .net7 框架会提示下载，请下载安装就可正常打开软件了
+> - poe 如果邮箱不能登录请点 Continue with Google 登录
+> - bito、bing、bard、ora 这几款都需要登录，全部登录成功后先关闭软件再打开即可正常使用
 
 
 
-## extractGPT(需自备梯子)
-gpt爬虫 从网站中提取数据
-https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc
+---
 
+## 🛠️ 实用工具
 
-## Chat2DB
-Chat2DB 是一款有开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL，也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器，未来即使不懂SQL的运营业务也可以使用快速查询业务数据、生成报表能力。
+### extractGPT（需自备梯子）
 
-https://github.com/alibaba/Chat2DB
+GPT 爬虫，从网站中提取数据
 
-## ChatExcel
+- **Chrome 商店**: https://chrome.google.com/webstore/detail/extractgpt/jkienildijlphoalpepaipkcoafbmbdc
+
+### Chat2DB
+
+Chat2DB 是一款有开源免费的多数据库客户端工具，支持 Windows、Mac 本地安装，也支持服务器端部署，web 网页访问。和传统的数据库客户端软件 Navicat、DBeaver 相比 Chat2DB 集成了 AIGC 的能力，能够将自然语言转换为 SQL，也可以将 SQL 转换为自然语言，可以给出研发人员 SQL 的优化建议，极大的提升人员的效率，是 AI 时代数据库研发人员的利器，未来即使不懂 SQL 的运营业务也可以使用快速查询业务数据、生成报表能力。
+
+- **项目地址**: https://github.com/alibaba/Chat2DB
+
+### ChatExcel
+
 ChatExcel，只需要与它聊聊天，表格中的数据可自动实现处理，也让 Excel 从一款低代码工具直接变成了零代码工具，再也不用记任何复杂的函数了。
-https://chatexcel.com/
 
-## ChatPDF
+- **官网**: https://chatexcel.com/
+
+### ChatPDF
+
 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
-https://www.chatpdf.com/ ❓
 
-## ChatDoc
-ChatDOC是一个基于ChatGPT的文件阅读助手，它可以从pdf中快速提取、定位和总结信息。
-https://chatdoc.com/
+- **官网**: https://www.chatpdf.com/
 
-## Chat论文
-利用chatgpt进行论文总结+润色+审稿+审稿回复
-https://github.com/kaixindelele/ChatPaper
+### ChatDoc
 
-## ChatGPT 学术优化
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
-https://github.com/xianyu110/chatgpt_academic
+ChatDOC 是一个基于 ChatGPT 的文件阅读助手，它可以从 PDF 中快速提取、定位和总结信息。
 
-## ChatPPT
-命令式一键生成PPT
-http://chatppt.yoo-ai.com/?share_code=148936
+- **官网**: https://chatdoc.com/
+
+### Chat 论文
+
+利用 ChatGPT 进行论文总结+润色+审稿+审稿回复
+
+- **项目地址**: https://github.com/kaixindelele/ChatPaper
+
+### ChatGPT 学术优化
+
+科研工作专用 ChatGPT 拓展，特别优化学术 Paper 润色体验，支持自定义快捷按钮，支持 markdown 表格显示，Tex 公式双显示，代码显示功能完善，新增本地 Python 工程剖析功能/自我剖析功能
+
+- **项目地址**: https://github.com/xianyu110/chatgpt_academic
+
+### ChatPPT
+
+命令式一键生成 PPT
+
+- **官网**: http://chatppt.yoo-ai.com/?share_code=148936
 
 
 
 
-## 一键总结 YouTube 音视频内容
-https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
+### 一键总结 YouTube 音视频内容
 
-## openai-translator
-我开发了一个 Bob 的插件 bob-plugin-openai-translator 使用 ChatGPT API 在 macOS 上进行全局划词翻译， 但是由于很多用户并不是 macOS 用户，所以特此开发了一个浏览器插件方便非 macOS 用户使用 ChatGPT 进行划词翻译。
-https://github.com/yetone/openai-translator?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+- **在线工具**: https://b.jimmylv.cn/video/BV1uM411P7oA?spm_id_from=333.1007.tianma.2-1-4.click
 
-### chatGPT插件
-1. WebChatGPT：可以搜索在线信息。
-https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn
+### openai-translator
 
-2. AIPRM for ChatGPT：收集了大量的prompt。
-https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related
+我开发了一个 Bob 的插件 bob-plugin-openai-translator 使用 ChatGPT API 在 macOS 上进行全局划词翻译，但是由于很多用户并不是 macOS 用户，所以特此开发了一个浏览器插件方便非 macOS 用户使用 ChatGPT 进行划词翻译。
 
-3.可以自动朗读ChatGPT的回复
-https://www.jb51.net/softs/867661.html#downintro2
+- **项目地址**: https://github.com/yetone/openai-translator
 
-4.ChatGPT Prompt Genius是一款 Chrome 扩展程序，这款工具支持ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
-ChatGPT Prompt Genius
-https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo
-国内链接:
-https://www.jb51.net/softs/862436.html
+---
 
-5. 强大的 Bing Chat/AI
-绕过每回合条数限制，无限制的BingChat，找回Sydney，加密聊天，prompt 预设管理器
-https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
+## 🔌 ChatGPT 插件
 
-6. Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。
- [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
+### 1. WebChatGPT
+
+可以搜索在线信息。
+
+- **Chrome 商店**: https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn
+
+### 2. AIPRM for ChatGPT
+
+收集了大量的 prompt。
+
+- **Chrome 商店**: https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related
+
+### 3. ChatGPT 自动朗读
+
+可以自动朗读 ChatGPT 的回复
+
+- **下载地址**: https://www.jb51.net/softs/867661.html#downintro2
+
+### 4. ChatGPT Prompt Genius
+
+ChatGPT Prompt Genius 是一款 Chrome 扩展程序，这款工具支持 ChatGPT 对话历史记录保存或者导出，可以使用扩展的提示模板功能轻松查找提示并将其添加到您的收藏中，用户可以直接在页面上搜索、分类和选择提示。
+
+- **Chrome 商店**: https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo
+- **国内链接**: https://www.jb51.net/softs/862436.html
+
+### 5. 强大的 Bing Chat/AI
+
+绕过每回合条数限制，无限制的 BingChat，找回 Sydney，加密聊天，prompt 预设管理器
+
+- **脚本地址**: https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai
+
+### 6. ChatGPT Everywhere
+
+Chrome 浏览器扩展套件，在任何输入框使用 ChatGPT。
+
+- **项目地址**: https://github.com/gragland/chatgpt-everywhere
+- **Demo**: https://twitter.com/gabe_ragland/status/1599466486422470656
 
 ### 随时在任何页面上调出聊天对话框
 
