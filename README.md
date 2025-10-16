@@ -39,8 +39,8 @@
 ## 🌐 魔法上网工具
 
 **耐思云**:
-- https://b.nsyunb.cc/#/register?code=6iPK3l3y
-- https://a01.nyc01.xyz/register?code=6iPK3l3y
+https://a04.nyc03.cc/register?code=6iPK3l3y
+
 
 ## ☁️ 免备案云主机推荐
 
