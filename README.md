@@ -26,15 +26,13 @@
 
 # 免费镜像站
 
-https://free.chatgpt-plus.top/list
-
-https://free.claude-opus.top/list/
+https://agi2.maynor1024.live/list/#/home
+授权码 claude0910
 
 ## 一站式AI聚合网站
 提供 AI 接口聚合管理，能够轻松一站式接入各种 AI 服务
 
-https://vlink.cc/maynorai
-
+https://link3.cc/maynorai
 
 
 ## 魔法上网工具
