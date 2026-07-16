@@ -470,6 +470,7 @@ https://github.com/xianyu110/xiaogpt
 - [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt)：JetBrains 編輯器擴充套件。
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
 - [docGPT](https://github.com/cesarhuret/docGPT)：Google 文件編輯器插件，在 Google Docs 內使用 ChatGPT。
+- [Tura](https://github.com/Tura-AI/tura)：本地开源编程智能体，提供终端、TUI 和桌面界面，并支持云端与本地模型提供商。
 
 ## CodeGeeX2: 更强大的多语言代码生成模型
 CodeGeeX2 是多语言代码生成模型 CodeGeeX (KDD’23) 的第二代模型。不同于一代 CodeGeeX（完全在国产华为昇腾芯片平台训练） ，CodeGeeX2 是基于 ChatGLM2 架构加入代码预训练实现，得益于 ChatGLM2 的更优性能，CodeGeeX2 在多项指标上取得性能提升（+107% > CodeGeeX；仅60亿参数即超过150亿参数的 StarCoder-15B 近10%）
