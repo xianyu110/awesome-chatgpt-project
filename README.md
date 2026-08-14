@@ -1527,7 +1527,7 @@ ChatGPT是一个强大的工具，但它仍然是一台机器，可能不能总�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xianyu110/awesome-chatgpt-project&type=Date)](https://star-history.com/#xianyu110/awesome-chatgpt-project&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=xianyu110/awesome-chatgpt-project&type=Date)](https://star-history.dera.page/#xianyu110/awesome-chatgpt-project&Date)
 
 本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
 
