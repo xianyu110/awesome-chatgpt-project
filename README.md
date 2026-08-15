@@ -332,6 +332,8 @@ Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用
 
 ## 🛠️ 实用工具
 
+- [Eimu](https://eimu.art) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
+
 ### extractGPT（需自备梯子）
 
 GPT 爬虫，从网站中提取数据
