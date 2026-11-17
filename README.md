@@ -374,6 +374,13 @@ ChatDOC 是一个基于 ChatGPT 的文件阅读助手，它可以从 PDF 中快�
 
 - **项目地址**: https://github.com/xianyu110/chatgpt_academic
 
+### HumanPen
+
+HumanPen 是商业积分制文档处理平台，支持文档改写、翻译、精简与引用格式校正，并提供科研项目服务。新用户注册赠送 100 积分，使用按积分计费。
+
+- **项目地址**: https://humanpen.net/
+- **API 文档**: https://api.humanpen.net/v1/docs.md
+
 ### ChatPPT
 
 命令式一键生成 PPT
